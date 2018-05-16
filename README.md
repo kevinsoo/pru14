@@ -1,7 +1,7 @@
 # pru14: Data and analysis of Malaysian GE14
 #### *Author: Kevin Soo*
 
-This contains code for scraping results from the 14^th^ General Election held on May 9, 2018. Code is scraped using R from the [Undi.info](https://undi.info/) portal.
+This contains code for scraping results from the 14th General Election held on May 9, 2018. Code is scraped using R from the [Undi.info](https://undi.info/) portal.
 
 Data for use are found in the following files:
 * `ge14_results.csv` contains the raw data
