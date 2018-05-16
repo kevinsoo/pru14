@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526391523091.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "76E16702",
+    "lastKnownWriteTime" : 4584371200,
+    "last_content_update" : 1526391523091,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "FE805392",
+        "caption" : "margins",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=margins&cache_key=FE805392",
+        "displayedObservations" : 221,
+        "environment" : "",
+        "object" : "margins",
+        "preview" : 0,
+        "totalObservations" : 221,
+        "variables" : 32
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

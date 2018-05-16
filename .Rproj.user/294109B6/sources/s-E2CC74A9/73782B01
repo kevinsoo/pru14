@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526399312116.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "73782B01",
+    "lastKnownWriteTime" : 7147047011877912582,
+    "last_content_update" : 1526399312116,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8D9BF518",
+        "caption" : "parlimenResults",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=parlimenResults&cache_key=8D9BF518",
+        "displayedObservations" : 1268,
+        "environment" : "",
+        "object" : "parlimenResults",
+        "preview" : 0,
+        "totalObservations" : 1268,
+        "variables" : 33
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

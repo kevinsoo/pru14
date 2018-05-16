@@ -1,0 +1,61 @@
+data <- parlimenResults %>%
+    filter(Year == 2018,
+           Coalition == "BN")
+
+data <- parlimenResults %>%
+    filter(Year == 2018,
+           Coalition == "Pakatan")
+
+data <- parlimenResults %>%
+    filter(Year == 2013,
+           Coalition == "BN")
+
+data <- parlimenResults %>%
+    filter(Year == 2013,
+           Coalition == "Pakatan")
+
+model <- lm(data = data, WastedVotes ~ as.factor(Winner))
+summary(model)
+
+
+
+data <- parlimenResults %>%
+    filter(Year == 2018,
+           Winner == 0,
+           Coalition %in% c("BN", "Pakatan"))
+
+model <- lm(data = data, WastedVotes ~ as.factor(Coalition))
+summary(model)
+
+parlimenResults %>%
+    filter(Coalition %in% c("BN", "Pakatan", "PAS")) %>%
+    group_by(Year, Coalition) %>%
+    summarise(TOTAL = sum(WastedVotes))
+
+parlimenResults %>%
+    filter(Coalition %in% c("BN", "Pakatan", "PAS")) %>%
+    filter(Winner == 1) %>%
+    ggplot(aes(x = Registered, y = VoteShare)) +
+    geom_point(aes(color = Coalition)) +
+    facet_wrap(~ Year) +
+    stat_smooth(method = "lm", aes(color = Coalition))
+
+
+parlimenResults %>%
+    group_by(Year, Parliament) %>%
+    summarise(Registered = unique(Registered), Voters = unique(Total)) %>%
+    group_by(Year) %>%
+    summarise(RegisteredTotal = sum(Registered), VotersTotal = sum(Voters)) %>%
+    mutate(Turnout = VotersTotal/RegisteredTotal)
+
+
+parlimenResults %>%
+    ggplot(aes(x = Malay)) +
+    geom_histogram()
+
+
+parlimenResults %>%
+    mutate(MalayGroup = ntile(Malay, 3)) %>%
+    select(Malay, MalayGroup) %>%
+    ggplot(aes(x = MalayGroup)) +
+    geom_histogram()

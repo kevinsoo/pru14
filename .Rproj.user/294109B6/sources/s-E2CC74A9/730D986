@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526504294105.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "730D986",
+    "lastKnownWriteTime" : 1526399032,
+    "last_content_update" : 1526399032,
+    "path" : "~/Box Sync/Personal/pru14/02_cleanElectionResults_parlimen.R",
+    "project_path" : "02_cleanElectionResults_parlimen.R",
+    "properties" : {
+        "cursorPosition" : "12,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

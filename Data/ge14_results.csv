@@ -1,0 +1,1269 @@
+ID,Year,State,Parliament,ParliamentCode,Registered,Malay,Chinese,Indian,Party,Candidate,Votes
+1,2018,PL,Padang Besar,P1,46095,0.87,0.09,0.01,UMNO,Zahidi Bin Zainul Abidin,15032
+1,2018,PL,Padang Besar,P1,46095,0.87,0.09,0.01,BERSATU,Izizam Bin Ibrahim,13594
+1,2018,PL,Padang Besar,P1,46095,0.87,0.09,0.01,PAS,Mokhtar Bin Senik,7874
+1,2013,PL,Padang Besar,P1,41974,0.86,0.09,0.01,UMNO,Zahidi Bin Zainul Abidin,21473
+1,2013,PL,Padang Besar,P1,41974,0.86,0.09,0.01,PAS,Azamhari Bin Mohamood,14047
+2,2018,PL,Kangar,P2,55938,0.82,0.15,0.02,PKR,Noor Amin Bin Ahmad,20909
+2,2018,PL,Kangar,P2,55938,0.82,0.15,0.02,UMNO,Ramli Bin Shariff,15306
+2,2018,PL,Kangar,P2,55938,0.82,0.15,0.02,PAS,Mohamad Zahid Bin Ibrahim,8465
+2,2013,PL,Kangar,P2,51207,0.81,0.16,0.02,UMNO,Shaharuddin Bin Ismail,23343
+2,2013,PL,Kangar,P2,51207,0.81,0.16,0.02,PAS,Baharuddin Bin Ahmad,19306
+3,2018,PL,Arau,P3,48187,0.88,0.08,0.02,UMNO,Shahidan Bin Kassim,16547
+3,2018,PL,Arau,P3,48187,0.88,0.08,0.02,BERSATU,Abd Rahman Bin Daud,11691
+3,2018,PL,Arau,P3,48187,0.88,0.08,0.02,PAS,Hashim Bin Hj Jasin,11362
+3,2013,PL,Arau,P3,43876,0.88,0.08,0.02,UMNO,Shahidan Bin Kassim,19376
+3,2013,PL,Arau,P3,43876,0.88,0.08,0.02,PAS,Haron Bin Din,18005
+3,2013,PL,Arau,P3,43876,0.88,0.08,0.02,IND,Zainudin Bin Yom,406
+4,2018,KD,Langkawi,P4,42697,0.91,0.07,0.02,BERSATU,Mahathir Bin Mohamad,18954
+4,2018,KD,Langkawi,P4,42697,0.91,0.07,0.02,UMNO,Nawawi Bin Ahmad,10061
+4,2018,KD,Langkawi,P4,42697,0.91,0.07,0.02,PAS,Zubir Bin Ahmad,5512
+4,2013,KD,Langkawi,P4,37536,0.91,0.06,0.02,UMNO,Nawawi Bin Ahmad,21407
+4,2013,KD,Langkawi,P4,37536,0.91,0.06,0.02,PKR,Ahmad Bin Abdullah,9546
+4,2013,KD,Langkawi,P4,37536,0.91,0.06,0.02,IND,Marina Binti Hussein,180
+5,2018,KD,Jerlun,P5,54132,0.91,0.07,0.02,BERSATU,Mukhriz Mahathir,18695
+5,2018,KD,Jerlun,P5,54132,0.91,0.07,0.02,PAS,Abd Ghani Bin Ahmad,12829
+5,2018,KD,Jerlun,P5,54132,0.91,0.07,0.02,UMNO,Othman Bin Aziz,12413
+5,2013,KD,Jerlun,P5,52383,0.91,0.08,0.02,UMNO,Othman Bin Aziz,24161
+5,2013,KD,Jerlun,P5,52383,0.91,0.08,0.02,PAS,Ismail Bin Salleh,20891
+6,2018,KD,Kubang Pasu,P6,73881,0.87,0.09,0.04,BERSATU,Amiruddin Bin Hamzah,29984
+6,2018,KD,Kubang Pasu,P6,73881,0.87,0.09,0.04,UMNO,Mohd Johari Bin Baharum,16975
+6,2018,KD,Kubang Pasu,P6,73881,0.87,0.09,0.04,PAS,Norhafiza Binti Fadzil,13375
+6,2013,KD,Kubang Pasu,P6,65550,0.86,0.09,0.04,UMNO,Mohd Johari Bin Baharum,33334
+6,2013,KD,Kubang Pasu,P6,65550,0.86,0.09,0.04,PAS,Mohd Jamal Bin Nasir,22890
+7,2018,KD,Padang Terap,P7,46644,0.92,0.01,0.06,UMNO,Mahdzir Bin Khalid,16384
+7,2018,KD,Padang Terap,P7,46644,0.92,0.01,0.06,PAS,Mohamad Azam Bin Abd Majid @ Abd Aziz,15285
+7,2018,KD,Padang Terap,P7,46644,0.92,0.01,0.06,AMANAH,Mohd Khairizal Bin Khazali,7254
+7,2013,KD,Padang Terap,P7,41960,0.92,0.01,0.06,UMNO,Mahdzir Bin Khalid,20654
+7,2013,KD,Padang Terap,P7,41960,0.92,0.01,0.06,PAS,Mohd Nasir Bin Zakaria,16212
+7,2013,KD,Padang Terap,P7,41960,0.92,0.01,0.06,IND,Muhamad Bazli Bin Abdullah,243
+8,2018,KD,Pokok Sena,P8,86892,0.82,0.16,0.02,AMANAH,Mahfuz Bin Omar,28959
+8,2018,KD,Pokok Sena,P8,86892,0.82,0.16,0.02,PAS,Muhamad Radhi Bin Mat Din,23401
+8,2018,KD,Pokok Sena,P8,86892,0.82,0.16,0.02,UMNO,Said Ali Bin Said Rastan,18390
+8,2013,KD,Pokok Sena,P8,80714,0.8,0.18,0.02,PAS,Dato' Mahfuz Bin Omar,36198
+8,2013,KD,Pokok Sena,P8,80714,0.8,0.18,0.02,UMNO,Shahlan Bin Ismail,32263
+9,2018,KD,Alor Setar,P9,80272,0.64,0.32,0.04,PKR,Chan Ming Kai,32475
+9,2018,KD,Alor Setar,P9,80272,0.64,0.32,0.04,PAS,Muhammad Aminur Shafiq Bin Mohamad Abduh,17275
+9,2018,KD,Alor Setar,P9,80272,0.64,0.32,0.04,MCA,Yoo Wei How,14181
+9,2013,KD,Alor Setar,P9,69009,0.61,0.34,0.05,PKR,Gooi Hsiao - Leung,27364
+9,2013,KD,Alor Setar,P9,69009,0.61,0.34,0.05,MCA,Chor Chee Heung,25491
+9,2013,KD,Alor Setar,P9,69009,0.61,0.34,0.05,BERJASA,Abdul Fisol Bin Mohd Isa,3530
+9,2013,KD,Alor Setar,P9,69009,0.61,0.34,0.05,BERSAMA,Jawahar Raja Bin Abdul Wahid,257
+10,2018,KD,Kuala Kedah,P10,97753,0.78,0.2,0.01,PKR,Azman Bin Ismail,36624
+10,2018,KD,Kuala Kedah,P10,97753,0.78,0.2,0.01,PAS,Muhamad Riduan Bin Othman,23143
+10,2018,KD,Kuala Kedah,P10,97753,0.78,0.2,0.01,UMNO,Abdullah Hasnan Bin Kamaruddin,19400
+10,2013,KD,Kuala Kedah,P10,95328,0.78,0.21,0.01,PKR,Azman Bin Ismail,42870
+10,2013,KD,Kuala Kedah,P10,95328,0.78,0.21,0.01,UMNO,Zaki Zamani Bin Abd Rashid,37923
+11,2018,KD,Pendang,P11,74867,0.89,0.05,0.01,PAS,Awang Bin Hashim,26536
+11,2018,KD,Pendang,P11,74867,0.89,0.05,0.01,UMNO,Othman Bin Abdul,20728
+11,2018,KD,Pendang,P11,74867,0.89,0.05,0.01,BERSATU,Wan Saifulruddin Bin Wan Jan,14901
+11,2018,KD,Pendang,P11,74867,0.89,0.05,0.01,BEBAS,Abdul Malik Bin Manaf,81
+11,2013,KD,Pendang,P11,70135,0.88,0.06,0.01,UMNO,Othman Bin Abdul,32165
+11,2013,KD,Pendang,P11,70135,0.88,0.06,0.01,PAS,Mohamad Bin Sabu,29527
+12,2018,KD,Jerai,P12,79976,0.8,0.14,0.06,PAS,Sabri Bin Azit,22312
+12,2018,KD,Jerai,P12,79976,0.8,0.14,0.06,UMNO,Jamil Khir Bin Baharom,21773
+12,2018,KD,Jerai,P12,79976,0.8,0.14,0.06,BERSATU,Akhramsyah Muammar Ubaidah Bin Sanusi,21651
+12,2013,KD,Jerai,P12,74410,0.79,0.15,0.06,UMNO,Jamil Khir Bin Baharom,32429
+12,2013,KD,Jerai,P12,74410,0.79,0.15,0.06,PAS,Mohd Firdaus Bin Jaafar,31233
+13,2018,KD,Sik,P13,50385,0.93,0.02,0.05,PAS,Ahmad Tarmizi Bin Sulaiman,20088
+13,2018,KD,Sik,P13,50385,0.93,0.02,0.05,UMNO,Mansor Bin Abd Rahman,14870
+13,2018,KD,Sik,P13,50385,0.93,0.02,0.05,AMANAH,Azli Bin Uda,6970
+13,2013,KD,Sik,P13,46786,0.93,0.02,0.05,UMNO,Mansor Bin Abd Rahman,22084
+13,2013,KD,Sik,P13,46786,0.93,0.02,0.05,PAS,Che Uda Bin Che Nik,19277
+14,2018,KD,Merbok,P14,87782,0.69,0.15,0.15,PKR,Nor Azrina Binti Surip,30902
+14,2018,KD,Merbok,P14,87782,0.69,0.15,0.15,UMNO,Tajul Urus Bin Mat Zain,20830
+14,2018,KD,Merbok,P14,87782,0.69,0.15,0.15,PAS,Ahmad Fauzi Bin Ramli,19618
+14,2013,KD,Merbok,P14,85908,0.65,0.17,0.18,UMNO,Ismail Bin Daut,38538
+14,2013,KD,Merbok,P14,85908,0.65,0.17,0.18,PKR,Nor Azrina Binti Surip,34416
+15,2018,KD,Sungai Petani,P15,112577,0.61,0.27,0.12,PKR,Johari Bin Abdul,45532
+15,2018,KD,Sungai Petani,P15,112577,0.61,0.27,0.12,UMNO,Shahanim Binti Mohamad Yusoff,23963
+15,2018,KD,Sungai Petani,P15,112577,0.61,0.27,0.12,PAS,Sharir Bin Long,22760
+15,2018,KD,Sungai Petani,P15,112577,0.61,0.27,0.12,PRM,Sritharan A/L Pichathu,279
+15,2013,KD,Sungai Petani,P15,93176,0.59,0.29,0.12,PKR,Johari Bin Abdul,44194
+15,2013,KD,Sungai Petani,P15,93176,0.59,0.29,0.12,UMNO,Syamsyul Anuar Bin Che Mey @ Ismail,34646
+15,2013,KD,Sungai Petani,P15,93176,0.59,0.29,0.12,IND,Ong Wei Sin,772
+15,2013,KD,Sungai Petani,P15,93176,0.59,0.29,0.12,KITA,Suhaimi Bin Hashim,200
+16,2018,KD,Baling,P16,107213,0.89,0.04,0.05,UMNO,Abdul Azeez Bin Abdul Rahim,38557
+16,2018,KD,Baling,P16,107213,0.89,0.04,0.05,PAS,Hassan Bin Saad,37483
+16,2018,KD,Baling,P16,107213,0.89,0.04,0.05,BERSATU,Mohd Taufik Bin Yaacob,14472
+16,2013,KD,Baling,P16,93168,0.89,0.05,0.05,UMNO,Abdul Azeez Bin Abdul Rahim,43504
+16,2013,KD,Baling,P16,93168,0.89,0.05,0.05,PAS,Najmi Bin Hj Ahmad,38319
+17,2018,KD,Padang Serai,P17,84834,0.59,0.2,0.21,PKR,Karupaiya A/L Mutusami,31724
+17,2018,KD,Padang Serai,P17,84834,0.59,0.2,0.21,PAS,Muhamad Sobri Bin Osman,22911
+17,2018,KD,Padang Serai,P17,84834,0.59,0.2,0.21,MCA,Leong Yong Kong,15449
+17,2013,KD,Padang Serai,P17,74095,0.56,0.21,0.23,PKR,N Surendran A/L K Nagarajan,34151
+17,2013,KD,Padang Serai,P17,74095,0.56,0.21,0.23,MCA,Heng Seai Kie,25714
+17,2013,KD,Padang Serai,P17,74095,0.56,0.21,0.23,BERJASA,Hamidi Bin Abu Hassan,2630
+17,2013,KD,Padang Serai,P17,74095,0.56,0.21,0.23,IND,Gobalakrishnan A/L Nagapan,390
+17,2013,KD,Padang Serai,P17,74095,0.56,0.21,0.23,IND,Othman Bin Wawi,279
+18,2018,KD,Kulim Bandar Baharu,P18,66587,0.69,0.18,0.13,PKR,Saifuddin Nasution Bin Ismail,23159
+18,2018,KD,Kulim Bandar Baharu,P18,66587,0.69,0.18,0.13,UMNO,Abd Aziz Bin Sheikh Fadzir,18299
+18,2018,KD,Kulim Bandar Baharu,P18,66587,0.69,0.18,0.13,PAS,Abdul Raman Bin Abdul Razak,12885
+18,2013,KD,Kulim Bandar Baharu,P18,60910,0.68,0.19,0.13,UMNO,Abd Aziz Bin Sheikh Fadzir,26782
+18,2013,KD,Kulim Bandar Baharu,P18,60910,0.68,0.19,0.13,PKR,Saifuddin Nasution Bin Ismail,24911
+19,2018,KE,Tumpat,P19,110924,0.93,0.03,0.04,PAS,Che Abdullah Bin Mat Nawi,47041
+19,2018,KE,Tumpat,P19,110924,0.93,0.03,0.04,UMNO,Wan Johani Bin Wan Hussin,29541
+19,2018,KE,Tumpat,P19,110924,0.93,0.03,0.04,BERSATU,Nordin Bin Salleh,10003
+19,2013,KE,Tumpat,P19,98632,0.93,0.03,0.04,PAS,Kamarudin Bin Jaffar,46151
+19,2013,KE,Tumpat,P19,98632,0.93,0.03,0.04,UMNO,Mansor Bin Salleh,35527
+20,2018,KE,Pengkalan Chepa,P20,75384,0.98,0.02,0,PAS,Ahmad Marzuk Bin Shaary,32592
+20,2018,KE,Pengkalan Chepa,P20,75384,0.98,0.02,0,UMNO,Zaluzi Bin Sulaiman,19360
+20,2018,KE,Pengkalan Chepa,P20,75384,0.98,0.02,0,AMANAH,Mohamad Bin Ibrahim,7435
+20,2013,KE,Pengkalan Chepa,P20,64409,0.98,0.02,0,PAS,Izani Bin Husin,34617
+20,2013,KE,Pengkalan Chepa,P20,64409,0.98,0.02,0,UMNO,Dali Bin Husin,19497
+21,2018,KE,Kota Bahru,P21,88708,0.85,0.14,0.01,PAS,Takiyuddin Bin Hassan,28291
+21,2018,KE,Kota Bahru,P21,88708,0.85,0.14,0.01,AMANAH,Husam Bin Musa,22422
+21,2018,KE,Kota Bahru,P21,88708,0.85,0.14,0.01,UMNO,Fikhran Hamshi Bin Mohamad Fatmi,16256
+21,2013,KE,Kota Bahru,P21,81268,0.83,0.16,0.01,PAS,Takiyuddin Bin Hassan,40620
+21,2013,KE,Kota Bahru,P21,81268,0.83,0.16,0.01,UMNO,Mohamad Fatmi Bin Che Salleh,24650
+21,2013,KE,Kota Bahru,P21,81268,0.83,0.16,0.01,IND,Mohd Zakiman Bin Abu Bakar,148
+22,2018,KE,Pasir Mas,P22,71222,0.98,0.02,0,PAS,Ahmad Fadhli Bin Shaari,28080
+22,2018,KE,Pasir Mas,P22,71222,0.98,0.02,0,UMNO,Nor Azmawi Bin Ab Rahman,15005
+22,2018,KE,Pasir Mas,P22,71222,0.98,0.02,0,BEBAS,Ibrahim Bin Ali,5373
+22,2018,KE,Pasir Mas,P22,71222,0.98,0.02,0,BERSATU,Che Ujang Bin Che Daud,5093
+22,2013,KE,Pasir Mas,P22,71965,0.97,0.03,0,PAS,Nik Mohamad Abduh Bin Nik Abdul Aziz,33431
+22,2013,KE,Pasir Mas,P22,71965,0.97,0.03,0,IND,Ibrahim Bin Ali,25384
+23,2018,KE,Rantau Panjang,P23,66115,0.97,0.02,0.01,PAS,Siti Zailah Binti Mohd Yusoff,24581
+23,2018,KE,Rantau Panjang,P23,66115,0.97,0.02,0.01,UMNO,Abdullah Bin Mat Yasim,18431
+23,2018,KE,Rantau Panjang,P23,66115,0.97,0.02,0.01,AMANAH,Wan Shah Jihan Bin Wan Din,5361
+23,2013,KE,Rantau Panjang,P23,52903,0.98,0.01,0.01,PAS,Siti Zailah Binti Mohd Yusoff,23724
+23,2013,KE,Rantau Panjang,P23,52903,0.98,0.01,0.01,UMNO,Ghazali Bin Ismail,17448
+24,2018,KE,Kubang Kerian,P24,82018,0.98,0.02,0,PAS,Tuan Ibrahim Bin Tuan Man,35620
+24,2018,KE,Kubang Kerian,P24,82018,0.98,0.02,0,UMNO,Muhammad Bin Abdul Ghani,16251
+24,2018,KE,Kubang Kerian,P24,82018,0.98,0.02,0,AMANAH,Abdul Halim Bin Yusof,11557
+24,2013,KE,Kubang Kerian,P24,65390,0.98,0.02,0,PAS,Ahmad Baihaki Bin Atiqullah,35510
+24,2013,KE,Kubang Kerian,P24,65390,0.98,0.02,0,UMNO,Anuar Bin Safian,18769
+25,2018,KE,Bachok,P25,92606,0.99,0.01,0,PAS,Nik Mohamad Abduh Bin Nik Abdul Aziz,36188
+25,2018,KE,Bachok,P25,92606,0.99,0.01,0,UMNO,Awang Adek Bin Hussin,32896
+25,2018,KE,Bachok,P25,92606,0.99,0.01,0,BERSATU,Mohd Zulkifli Bin Haji Zakaria,4880
+25,2013,KE,Bachok,P25,81566,0.99,0.01,0,PAS,Ahmad Marzuk Bin Shaary,35419
+25,2013,KE,Bachok,P25,81566,0.99,0.01,0,UMNO,Awang Adek Bin Hussin,35218
+26,2018,KE,Ketereh,P26,65238,0.97,0.02,0.01,UMNO,Annuar Bin Musa,25467
+26,2018,KE,Ketereh,P26,65238,0.97,0.02,0.01,PAS,Wan Ismail Bin Wan Jusoh,20841
+26,2018,KE,Ketereh,P26,65238,0.97,0.02,0.01,BERSATU,Mohd Radzi Bin Md Jidin,6799
+26,2013,KE,Ketereh,P26,62217,0.97,0.02,0.01,UMNO,Annuar Bin Musa,26912
+26,2013,KE,Ketereh,P26,62217,0.97,0.02,0.01,PKR,Ab Aziz Bin Ab Kadir,25938
+27,2018,KE,Tanah Merah,P27,73172,0.95,0.04,0.01,UMNO,Ikmal Hisham Bin Abdul Aziz,28152
+27,2018,KE,Tanah Merah,P27,73172,0.95,0.04,0.01,PAS,Johari Bin Mat,25223
+27,2018,KE,Tanah Merah,P27,73172,0.95,0.04,0.01,PKR,Mohamad Fauzi Bin Zakaria,4747
+27,2013,KE,Tanah Merah,P27,58237,0.95,0.04,0.01,UMNO,Ikmal Hisham Bin Abdul Aziz,26505
+27,2013,KE,Tanah Merah,P27,58237,0.95,0.04,0.01,PKR,Nik Mahmood Bin Nik Hassan,22278
+27,2013,KE,Tanah Merah,P27,58237,0.95,0.04,0.01,IND,Ahmad Fizal Bin Che Harun,213
+28,2018,KE,Pasir Putih,P28,85411,0.98,0.01,0.01,PAS,Nik Muhammad Zawawi Bin Salleh,32307
+28,2018,KE,Pasir Putih,P28,85411,0.98,0.01,0.01,UMNO,Asyraf Wajdi Bin Dusuki,30947
+28,2018,KE,Pasir Putih,P28,85411,0.98,0.01,0.01,BERSATU,Kamarudin Bin Md Nor,4896
+28,2013,KE,Pasir Putih,P28,76259,0.98,0.01,0.01,PAS,Nik Mazian Bin Nik Mohamad,33579
+28,2013,KE,Pasir Putih,P28,76259,0.98,0.01,0.01,UMNO,Tuan Mustaffa Bin Tuan Mat,31691
+29,2018,KE,Machang,P29,68387,0.97,0.03,0,UMNO,Ahmad Jazlan Bin Yaakub,26076
+29,2018,KE,Machang,P29,68387,0.97,0.03,0,PAS,Zulkifli Bin Mamat,23252
+29,2018,KE,Machang,P29,68387,0.97,0.03,0,BERSATU,Sazmi B Miah,5695
+29,2013,KE,Machang,P29,59226,0.96,0.04,0,UMNO,Ahmad Jazlan Bin Yaakub,25660
+29,2013,KE,Machang,P29,59226,0.96,0.04,0,PKR,Wan Zawawi Bin Wan Ismail,24855
+30,2018,KE,Jeli,P30,47470,0.98,0.01,0,UMNO,Mustapa Bin Mohamed,21665
+30,2018,KE,Jeli,P30,47470,0.98,0.01,0,PAS,Mohamad Bin Hamid,15018
+30,2018,KE,Jeli,P30,47470,0.98,0.01,0,BERSATU,Azran Bin Deraman,2078
+30,2013,KE,Jeli,P30,43224,0.99,0.01,0,UMNO,Mustapa Bin Mohamed,21223
+30,2013,KE,Jeli,P30,43224,0.99,0.01,0,PAS,Mohd Apandi Bin Mohamad,15954
+31,2018,KE,Kuala Krai,P31,70348,0.95,0.04,0.01,PAS,Abdul Latiff Bin Abdul Rahman,28903
+31,2018,KE,Kuala Krai,P31,70348,0.95,0.04,0.01,UMNO,Ramzi Bin Ab Rahman,20911
+31,2018,KE,Kuala Krai,P31,70348,0.95,0.04,0.01,AMANAH,Mohd Yazid Bin Abdullah,5173
+31,2013,KE,Kuala Krai,P31,63101,0.94,0.04,0.01,PAS,Mohd Hatta Bin Md Ramli,27919
+31,2013,KE,Kuala Krai,P31,63101,0.94,0.04,0.01,UMNO,Tuan Aziz Bin Tuan Hamat @ Tuan Mat,25876
+32,2018,KE,Gua Musang,P32,52524,0.83,0.06,0.01,UMNO,Tengku Razaleigh Bin Tengku Mohd Hamzah,19426
+32,2018,KE,Gua Musang,P32,52524,0.83,0.06,0.01,PAS,Abdullah Bin Hussein,15513
+32,2018,KE,Gua Musang,P32,52524,0.83,0.06,0.01,BERSATU,Mohd Nor Bin Hussin,4997
+32,2013,KE,Gua Musang,P32,40176,0.8,0.07,0.01,UMNO,Tengku Razaleigh Bin Tengku Mohd Hamzah,21367
+32,2013,KE,Gua Musang,P32,40176,0.8,0.07,0.01,PAS,Wan Abd Rahim Bin Wan Abdullah,12954
+33,2018,TR,Besut,P33,86627,0.98,0.01,0,UMNO,Idris Bin Jusoh,34335
+33,2018,TR,Besut,P33,86627,0.98,0.01,0,PAS,Riduan Bin Mohamad Nor,29736
+33,2018,TR,Besut,P33,86627,0.98,0.01,0,BERSATU,Wan Nazari Bin Wan Jusoh,6864
+33,2013,TR,Besut,P33,72556,0.98,0.01,0,UMNO,Idris Bin Jusoh,35232
+33,2013,TR,Besut,P33,72556,0.98,0.01,0,PAS,Riduan Bin Mohamad Nor,26890
+34,2018,TR,Setiu,P34,86247,1,0,0,PAS,Shaharizukirnain Bin Abd Kadir,35020
+34,2018,TR,Setiu,P34,86247,1,0,0,UMNO,Mohd Jidin Bin Shafee,32218
+34,2018,TR,Setiu,P34,86247,1,0,0,BERSATU,Mohd Faudzi Bin Musa,4740
+34,2013,TR,Setiu,P34,67280,1,0,0,UMNO,Che Mohamad Zulkifly Bin Jusoh,33198
+34,2013,TR,Setiu,P34,67280,1,0,0,PAS,Omar Bin Sidek,25255
+35,2018,TR,Kuala Nerus,P35,83663,0.99,0.01,0,PAS,Mohd Khairuddin Bin Aman Razali,37974
+35,2018,TR,Kuala Nerus,P35,83663,0.99,0.01,0,UMNO,Tengku Asmadi Bin Tengku Mohamad,29527
+35,2018,TR,Kuala Nerus,P35,83663,0.99,0.01,0,AMANAH,Abdullah Bin Mohamed,4604
+35,2013,TR,Kuala Nerus,P35,76238,0.99,0.01,0,PAS,Mohd Khairuddin Bin Aman Razali,33861
+35,2013,TR,Kuala Nerus,P35,76238,0.99,0.01,0,UMNO,Mohd Nasir B Ibrahim @ Ibrahim Fikri,33251
+36,2018,TR,Kuala Terengganu,P36,103611,0.9,0.09,0.01,PAS,Ahmad Amzad Bin Mohamed @ Hashim,42988
+36,2018,TR,Kuala Terengganu,P36,103611,0.9,0.09,0.01,UMNO,Wan Nawawi Bin Haji Wan Ismail,28215
+36,2018,TR,Kuala Terengganu,P36,103611,0.9,0.09,0.01,AMANAH,Raja Kamarul Bahrin Shah,15380
+36,2013,TR,Kuala Terengganu,P36,94406,0.89,0.1,0.01,PAS,Raja Kamarul Bahrin Shah,45828
+36,2013,TR,Kuala Terengganu,P36,94406,0.89,0.1,0.01,UMNO,Mohd Zubir Bin Embong,35043
+36,2013,TR,Kuala Terengganu,P36,94406,0.89,0.1,0.01,IND,Maimun Binti Yusuf,182
+37,2018,TR,Marang,P37,104898,0.98,0.02,0,PAS,Abdul Hadi Bin Awang,53749
+37,2018,TR,Marang,P37,104898,0.98,0.02,0,UMNO,Mohamad Nor Bin Endot,31795
+37,2018,TR,Marang,P37,104898,0.98,0.02,0,AMANAH,Zarawi Bin Sulong,5138
+37,2013,TR,Marang,P37,90795,0.98,0.02,0,PAS,Abdul Hadi Bin Awang,42984
+37,2013,TR,Marang,P37,90795,0.98,0.02,0,UMNO,Yahya Bin Khatib Mohamad,37860
+38,2018,TR,Hulu Terengganu,P38,73487,0.99,0.01,0,UMNO,Rosol Bin Wahid,30925
+38,2018,TR,Hulu Terengganu,P38,73487,0.99,0.01,0,PAS,Muhyidin Bin Abdul Rashid,28057
+38,2018,TR,Hulu Terengganu,P38,73487,0.99,0.01,0,BERSATU,Razali Bin Idris,3364
+38,2013,TR,Hulu Terengganu,P38,63543,0.99,0.01,0,UMNO,Jailani Bin Johari,31940
+38,2013,TR,Hulu Terengganu,P38,63543,0.99,0.01,0,PAS,Kamaruzaman Bin Abdullah,23727
+39,2018,TR,Dungun,P39,90506,0.96,0.03,0,PAS,Wan Hassan Bin Mohd Ramli,40850
+39,2018,TR,Dungun,P39,90506,0.96,0.03,0,UMNO,Din Bin Adam,27731
+39,2018,TR,Dungun,P39,90506,0.96,0.03,0,PKR,Abd Rahman Bin Yusof,6833
+39,2013,TR,Dungun,P39,78174,0.96,0.04,0,PAS,Wan Hassan Bin Mohd Ramli,35348
+39,2013,TR,Dungun,P39,78174,0.96,0.04,0,UMNO,Rosli Bin Mat Hassan,31406
+39,2013,TR,Dungun,P39,78174,0.96,0.04,0,IND,Mazlan Bin Harun,384
+40,2018,TR,Kemaman,P40,107593,0.94,0.05,0.01,PAS,Che Alias Bin Hamid,39878
+40,2018,TR,Kemaman,P40,107593,0.94,0.05,0.01,UMNO,Ahd Shabery Bin Cheek,37715
+40,2018,TR,Kemaman,P40,107593,0.94,0.05,0.01,PKR,Mohd Huzaifah Bin Md Suhaimi,12911
+40,2013,TR,Kemaman,P40,91942,0.93,0.06,0.01,UMNO,Ahd Shabery Bin Cheek,45525
+40,2013,TR,Kemaman,P40,91942,0.93,0.06,0.01,PKR,Kamarudin Bin Chik,33219
+41,2018,PN,Kepala Batas,P41,60523,0.79,0.17,0.04,UMNO,Reezal Merican Bin Naina Merican,22459
+41,2018,PN,Kepala Batas,P41,60523,0.79,0.17,0.04,AMANAH,Zaidi Bin Zakaria,17723
+41,2018,PN,Kepala Batas,P41,60523,0.79,0.17,0.04,PAS,Siti Mastura Binti Muhammad,12120
+41,2013,PN,Kepala Batas,P41,51635,0.76,0.19,0.04,UMNO,Reezal Merican Bib Naina Merican,25128
+41,2013,PN,Kepala Batas,P41,51635,0.76,0.19,0.04,PAS,Afnan Hamimi Bin Taib Azamudden,20952
+42,2018,PN,Tasek Gelugor,P42,60850,0.78,0.15,0.07,UMNO,Shabudin Bin Yahaya,18547
+42,2018,PN,Tasek Gelugor,P42,60850,0.78,0.15,0.07,BERSATU,Marzuki Bin Yahya,18466
+42,2018,PN,Tasek Gelugor,P42,60850,0.78,0.15,0.07,PAS,Rizal Hafiz Bin Ruslan,14891
+42,2013,PN,Tasek Gelugor,P42,54042,0.78,0.15,0.07,UMNO,Shabudin Bin Yahaya,24393
+42,2013,PN,Tasek Gelugor,P42,54042,0.78,0.15,0.07,PAS,Abdul Rahman Bin B Maidin,21351
+42,2013,PN,Tasek Gelugor,P42,54042,0.78,0.15,0.07,IND,Mohd Shariff Bin Omar,1590
+43,2018,PN,Bagan,P43,71583,0.13,0.71,0.15,DAP,Lim Guan Eng,51653
+43,2018,PN,Bagan,P43,71583,0.13,0.71,0.15,MCA,Lee Beng Seng,7751
+43,2018,PN,Bagan,P43,71583,0.13,0.71,0.15,PCM,Huan Cheng Guan,502
+43,2018,PN,Bagan,P43,71583,0.13,0.71,0.15,MU,Koay Xing Boon,181
+43,2013,PN,Bagan,P43,68503,0.15,0.7,0.15,DAP,Lim Guan Eng,46466
+43,2013,PN,Bagan,P43,68503,0.15,0.7,0.15,MCA,Chua Teik Siang,12307
+43,2013,PN,Bagan,P43,68503,0.15,0.7,0.15,PCM,Lim Kim Chu,328
+43,2013,PN,Bagan,P43,68503,0.15,0.7,0.15,IND,-Test Aizu 3- Will Remove By 15 March 2018,1
+43,2013,PN,Bagan,P43,68503,0.15,0.7,0.15,IND,-Test Aizu 4- Will Remove By 15 March 2018,1
+44,2018,PN,Permatang Pauh,P44,81789,0.72,0.21,0.06,PKR,Nurul Izzah Binti Anwar,35534
+44,2018,PN,Permatang Pauh,P44,81789,0.72,0.21,0.06,UMNO,Mohd Zaidi Bin Mohd Said,19866
+44,2018,PN,Permatang Pauh,P44,81789,0.72,0.21,0.06,PAS,Afnan Hamimi Bin Taib Azamudden,14428
+44,2013,PN,Permatang Pauh,P44,71699,0.7,0.23,0.06,PKR,Anwar Bin Ibrahim,37090
+44,2013,PN,Permatang Pauh,P44,71699,0.7,0.23,0.06,UMNO,Mazlan Bin Ismail,25369
+44,2013,PN,Permatang Pauh,P44,71699,0.7,0.23,0.06,IND,Abdullah Zawawi Bin Samsudin,201
+45,2018,PN,Bukit Mertajam,P45,88998,0.19,0.7,0.1,DAP,Sim Chee Keong,63784
+45,2018,PN,Bukit Mertajam,P45,88998,0.19,0.7,0.1,MCA,Gui Guat Lye,10907
+45,2013,PN,Bukit Mertajam,P45,78996,0.19,0.71,0.1,DAP,Sim Chee Keong,55877
+45,2013,PN,Bukit Mertajam,P45,78996,0.19,0.71,0.1,MCA,Gui Guat Lye,12814
+46,2018,PN,Batu Kawan,P46,65394,0.21,0.56,0.23,DAP,Kasthuriraani A/P Patto,42683
+46,2018,PN,Batu Kawan,P46,65394,0.21,0.56,0.23,GERAKAN,Jayanthi Devi A/P Balaguru,9130
+46,2018,PN,Batu Kawan,P46,65394,0.21,0.56,0.23,PAS,Jay Kumar A/L Balakrishna,2636
+46,2018,PN,Batu Kawan,P46,65394,0.21,0.56,0.23,PFP,Ooi Khar Giap,256
+46,2013,PN,Batu Kawan,P46,57500,0.21,0.56,0.23,DAP,Kasthuriraani A/P Patto,36636
+46,2013,PN,Batu Kawan,P46,57500,0.21,0.56,0.23,MIC,Gobalakrishnan A/L Narayanasamy,10674
+46,2013,PN,Batu Kawan,P46,57500,0.21,0.56,0.23,PCM,Huan Cheng Guan,1801
+46,2013,PN,Batu Kawan,P46,57500,0.21,0.56,0.23,IND,Mohan A/L Apparoo,305
+47,2018,PN,Nibong Tebal,P47,73383,0.48,0.35,0.17,PKR,Mansor Bin Othman,35395
+47,2018,PN,Nibong Tebal,P47,73383,0.48,0.35,0.17,UMNO,Shaik Hussein Bin Mydin,19578
+47,2018,PN,Nibong Tebal,P47,73383,0.48,0.35,0.17,PAS,Mohd Helmi Bin Harun,6875
+47,2018,PN,Nibong Tebal,P47,73383,0.48,0.35,0.17,BEBAS,Tan Tee Beng,331
+47,2013,PN,Nibong Tebal,P47,59345,0.45,0.37,0.18,PKR,Mansor Bin Othman,30003
+47,2013,PN,Nibong Tebal,P47,59345,0.45,0.37,0.18,UMNO,Zainal Abidin Bin Osman,21405
+47,2013,PN,Nibong Tebal,P47,59345,0.45,0.37,0.18,IND,Teng Kok Pheng,297
+48,2018,PN,Bukit Bendera,P48,75069,0.15,0.73,0.11,DAP,Wong Hon Wai,50049
+48,2018,PN,Bukit Bendera,P48,75069,0.15,0.73,0.11,GERAKAN,Andy Yong Kim Seng,9318
+48,2018,PN,Bukit Bendera,P48,75069,0.15,0.73,0.11,MU,Tan Gin Theam,339
+48,2013,PN,Bukit Bendera,P48,71085,0.14,0.74,0.11,DAP,Zairil Khir Johari,45591
+48,2013,PN,Bukit Bendera,P48,71085,0.14,0.74,0.11,GERAKAN,Teh Leong Meng,12813
+49,2018,PN,Tanjong,P49,49586,0.06,0.84,0.09,DAP,Chow Kon Yeow,34663
+49,2018,PN,Tanjong,P49,49586,0.06,0.84,0.09,GERAKAN,Ng Siew Lai,5064
+49,2013,PN,Tanjong,P49,51487,0.05,0.86,0.09,DAP,Ng Wei Aik,35510
+49,2013,PN,Tanjong,P49,51487,0.05,0.86,0.09,GERAKAN,Ng Song Kheng,6865
+50,2018,PN,Jelutong,P50,76991,0.23,0.65,0.11,DAP,Sanisvara Nethaji Rayer A/L Rajaji,50700
+50,2018,PN,Jelutong,P50,76991,0.23,0.65,0.11,GERAKAN,Baljit Singh A/L Jigiri Singh,12529
+50,2018,PN,Jelutong,P50,76991,0.23,0.65,0.11,MU,Tan Sim Bee,437
+50,2013,PN,Jelutong,P50,71247,0.22,0.67,0.11,DAP,Ooi Chuan Aun,43211
+50,2013,PN,Jelutong,P50,71247,0.22,0.67,0.11,GERAKAN,Ng Fook On,17461
+51,2018,PN,Bukit Gelugor,P51,91595,0.15,0.74,0.11,DAP,Ramkarpal Singh A/L Karpal Singh,65622
+51,2018,PN,Bukit Gelugor,P51,91595,0.15,0.74,0.11,MCA,Low Joo Hiap,9671
+51,2018,PN,Bukit Gelugor,P51,91595,0.15,0.74,0.11,MU,Lai Xue Ching,412
+51,2013,PN,Bukit Gelugor,P51,81897,0.14,0.75,0.1,DAP,Karpal Singh A/L Ram Singh,55839
+51,2013,PN,Bukit Gelugor,P51,81897,0.14,0.75,0.1,MCA,Teh Beng Yeam,14061
+52,2018,PN,Bayan Baru,P52,90780,0.4,0.49,0.11,PKR,Sim Tze Tzin,51555
+52,2018,PN,Bayan Baru,P52,90780,0.4,0.49,0.11,MCA,Chuah Seng Guan,13804
+52,2018,PN,Bayan Baru,P52,90780,0.4,0.49,0.11,PAS,Iszuree Bin Ibrahim,8757
+52,2018,PN,Bayan Baru,P52,90780,0.4,0.49,0.11,MU,Yim Boon Leong,733
+52,2013,PN,Bayan Baru,P52,79155,0.39,0.49,0.11,PKR,Sim Tze Tzin,43558
+52,2013,PN,Bayan Baru,P52,79155,0.39,0.49,0.11,MCA,Tang Heap Seng,24251
+53,2018,PN,Balik Pulau,P53,59086,0.65,0.3,0.04,PKR,Muhammad Bakhtiar Bin Wan Chik,25471
+53,2018,PN,Balik Pulau,P53,59086,0.65,0.3,0.04,UMNO,Hilmi Bin Yahaya,19007
+53,2018,PN,Balik Pulau,P53,59086,0.65,0.3,0.04,PAS,Muhammad Imran Bin Muhammad Sa'ad,5298
+53,2013,PN,Balik Pulau,P53,49641,0.64,0.32,0.04,UMNO,Hilmi Bin Yahaya,22318
+53,2013,PN,Balik Pulau,P53,49641,0.64,0.32,0.04,PKR,Muhammad Bakhtiar Bin Wan Chik,20779
+54,2018,PR,Gerik,P54,35903,0.69,0.14,0.03,UMNO,Hasbullah Bin Osman,13243
+54,2018,PR,Gerik,P54,35903,0.69,0.14,0.03,PAS,Mohd Dahalan Bin Hj Ismail,7715
+54,2018,PR,Gerik,P54,35903,0.69,0.14,0.03,BERSATU,Ibrahim Bin Mohd Hanafiah,6353
+54,2013,PR,Gerik,P54,32725,0.68,0.16,0.04,UMNO,Hasbullah Bin Osman,16415
+54,2013,PR,Gerik,P54,32725,0.68,0.16,0.04,PAS,Norhayati Binti Kasim,10199
+55,2018,PR,Lenggong,P55,29752,0.84,0.13,0.01,UMNO,Shamsul Anuar Bin Nasarah,12523
+55,2018,PR,Lenggong,P55,29752,0.84,0.13,0.01,PAS,Muhammad Mujahid Bin Mohammad Fadzil,6750
+55,2018,PR,Lenggong,P55,29752,0.84,0.13,0.01,BERSATU,Amirul Fairuzzeen Bin Jamaluddin,3932
+55,2013,PR,Lenggong,P55,27950,0.82,0.14,0.02,UMNO,Shamsul Anuar Bin Nasarah,13285
+55,2013,PR,Lenggong,P55,27950,0.82,0.14,0.02,PAS,Razman Bin Zakaria,9832
+56,2018,PR,Larut,P56,49453,0.9,0.04,0.06,UMNO,Hamzah Bin Zainudin,18184
+56,2018,PR,Larut,P56,49453,0.9,0.04,0.06,PAS,Abu Husin Bin Mohammad,13698
+56,2018,PR,Larut,P56,49453,0.9,0.04,0.06,BERSATU,Khairil Anuar Bin Akhiruddin,7738
+56,2013,PR,Larut,P56,46577,0.89,0.05,0.06,BN,Hamzah Bin Zainudin,22184
+56,2013,PR,Larut,P56,46577,0.89,0.05,0.06,PAS,Mohd Fauzi Bin Sa'ari,16888
+56,2013,PR,Larut,P56,46577,0.89,0.05,0.06,IND,Raveendran A/L Mvallikana,278
+57,2018,PR,Parit Buntar,P57,51860,0.69,0.26,0.05,AMANAH,Mujahid Bin Yusof,16753
+57,2018,PR,Parit Buntar,P57,51860,0.69,0.26,0.05,UMNO,Abdul Puhat Bin Mat Nayan,13655
+57,2018,PR,Parit Buntar,P57,51860,0.69,0.26,0.05,PAS,Ahmad Azhar Bin Sharin,12312
+57,2013,PR,Parit Buntar,P57,51422,0.68,0.27,0.05,PAS,Mujahid Bin Yusof,26015
+57,2013,PR,Parit Buntar,P57,51422,0.68,0.27,0.05,UMNO,Mua'amar Ghadafi Jamal Bin Jamaludin,17539
+58,2018,PR,Bagan Serai,P58,59293,0.78,0.13,0.09,UMNO,Noor Azmi Bin Ghazali,17220
+58,2018,PR,Bagan Serai,P58,59293,0.78,0.13,0.09,PAS,Rohaya Binti Bakar,17048
+58,2018,PR,Bagan Serai,P58,59293,0.78,0.13,0.09,BERSATU,Adam Bin Asmuni,12987
+58,2013,PR,Bagan Serai,P58,54792,0.76,0.14,0.1,UMNO,Noor Azmi Bin Ghazali,23014
+58,2013,PR,Bagan Serai,P58,54792,0.76,0.14,0.1,PKR,Mohd Nor Bin Hj R M Monutty,21874
+58,2013,PR,Bagan Serai,P58,54792,0.76,0.14,0.1,IND,Abdul Latif Bin Masud,329
+59,2018,PR,Bukit Gantang,P59,69873,0.73,0.19,0.08,UMNO,Syed Abu Hussin Bin Hafiz Syed Abdul Fasal,22450
+59,2018,PR,Bukit Gantang,P59,69873,0.73,0.19,0.08,BERSATU,Khadri Bin Khalid,18361
+59,2018,PR,Bukit Gantang,P59,69873,0.73,0.19,0.08,PAS,Idris Bin Ahmad,16052
+59,2013,PR,Bukit Gantang,P59,71257,0.65,0.25,0.1,PAS,Idris Bin Ahmad,30563
+59,2013,PR,Bukit Gantang,P59,71257,0.65,0.25,0.1,UMNO,Ismail Bin Saffian,29577
+60,2018,PR,Taiping,P60,90729,0.39,0.46,0.13,DAP,Teh Kok Lim,42997
+60,2018,PR,Taiping,P60,90729,0.39,0.46,0.13,GERAKAN,Tan Keng Liang,15613
+60,2018,PR,Taiping,P60,90729,0.39,0.46,0.13,PAS,Ibrahim Bin Ismail,11133
+60,2013,PR,Taiping,P60,78148,0.37,0.48,0.13,DAP,Nga Kor Ming,37275
+60,2013,PR,Taiping,P60,78148,0.37,0.48,0.13,GERAKAN,Tan Lian Hoe,25530
+61,2018,PR,Padang Rengas,P61,30996,0.78,0.15,0.07,UMNO,Mohamed Nazri Bin Abdul Aziz,10491
+61,2018,PR,Padang Rengas,P61,30996,0.78,0.15,0.07,PKR,Ejazi Bin Yahaya,7943
+61,2018,PR,Padang Rengas,P61,30996,0.78,0.15,0.07,PAS,Mohamad Azalan Bin Mohamad Radzi,6847
+61,2013,PR,Padang Rengas,P61,28518,0.76,0.17,0.07,UMNO,Mohamed Nazri Bin Abdul Aziz,13005
+61,2013,PR,Padang Rengas,P61,28518,0.76,0.17,0.07,PKR,Meor Ahmad Isharra Bin Ishak,10775
+62,2018,PR,Sungai Siput,P62,55002,0.35,0.36,0.21,PKR,Kesavan A/L Subramaniam,20817
+62,2018,PR,Sungai Siput,P62,55002,0.35,0.36,0.21,MIC,Devamany A/L S Krishnasamy,15210
+62,2018,PR,Sungai Siput,P62,55002,0.35,0.36,0.21,PAS,Ishak Bin Ibrahim,5194
+62,2018,PR,Sungai Siput,P62,55002,0.35,0.36,0.21,PSM,Michael Jeyakumar Devaraj,1505
+62,2013,PR,Sungai Siput,P62,51596,0.33,0.39,0.21,PKR,Michael Jeyakumar Devaraj,21593
+62,2013,PR,Sungai Siput,P62,51596,0.33,0.39,0.21,MIC,Devamany A/L S Krishnasamy,18800
+62,2013,PR,Sungai Siput,P62,51596,0.33,0.39,0.21,IND,Nagalingam A/L Singaravelloo,197
+63,2018,PR,Tambun,P63,107763,0.67,0.2,0.11,BERSATU,Ahmad Faizal Bin Azumu,38661
+63,2018,PR,Tambun,P63,107763,0.67,0.2,0.11,UMNO,Ahmad Husni Bin Mohamad Hanadzlah,33341
+63,2018,PR,Tambun,P63,107763,0.67,0.2,0.11,PAS,Muhamad Zulkifli Bin Mohamad Zakaria,14948
+63,2013,PR,Tambun,P63,89435,0.64,0.22,0.12,UMNO,Ahmad Husni Bin Mohamad Hanadzlah,42093
+63,2013,PR,Tambun,P63,89435,0.64,0.22,0.12,PKR,Siti Aishah Binti Shaik Ismail,32768
+64,2018,PR,Ipoh Timur,P64,91486,0.21,0.72,0.06,DAP,Wong Kah Woh,56519
+64,2018,PR,Ipoh Timur,P64,91486,0.21,0.72,0.06,MCA,Kathleen Wong Mei Yin,13722
+64,2013,PR,Ipoh Timur,P64,81818,0.14,0.8,0.05,DAP,Su Keong Siong,49086
+64,2013,PR,Ipoh Timur,P64,81818,0.14,0.8,0.05,MCA,Kathleen Wong Mei Yin,15086
+65,2018,PR,Ipoh Barat,P65,84874,0.12,0.63,0.24,DAP,Mkulasegaran A/L Vmurugeson,55613
+65,2018,PR,Ipoh Barat,P65,84874,0.12,0.63,0.24,MCA,Cheng Wei Yee,9889
+65,2013,PR,Ipoh Barat,P65,77761,0.14,0.62,0.23,DAP,M Kulasegaran A/L V Murugeson,45420
+65,2013,PR,Ipoh Barat,P65,77761,0.14,0.62,0.23,MCA,Cheng Wei Yee,16382
+65,2013,PR,Ipoh Barat,P65,77761,0.14,0.62,0.23,IND,Kalwant Singh A/L Sujan Singh,235
+66,2018,PR,Batu Gajah,P66,81399,0.1,0.75,0.15,DAP,Sivakumar A/L Varatharaju Naidu,52850
+66,2018,PR,Batu Gajah,P66,81399,0.1,0.75,0.15,MCA,Leong Chee Wai,8982
+66,2018,PR,Batu Gajah,P66,81399,0.1,0.75,0.15,PSM,Kunasekaran A/L Krishnan,955
+66,2013,PR,Batu Gajah,P66,87587,0.11,0.74,0.15,DAP,Sivakumar A/L Varatharaju Naidu,53900
+66,2013,PR,Batu Gajah,P66,87587,0.11,0.74,0.15,MCA,Loo Thin Tuck,15304
+67,2018,PR,Kuala Kangsar,P67,36954,0.71,0.22,0.07,UMNO,Mastura Binti Mohd Yazid,12102
+67,2018,PR,Kuala Kangsar,P67,36954,0.71,0.22,0.07,AMANAH,Ahmad Termizi Bin Ramli,11371
+67,2018,PR,Kuala Kangsar,P67,36954,0.71,0.22,0.07,PAS,Khalil Idham Lim Bin Abdullah,6583
+67,2013,PR,Kuala Kangsar,P67,33540,0.68,0.24,0.07,UMNO,Wan Mohammad Khair-Il Anuar Bin Wan Ahmad,14218
+67,2013,PR,Kuala Kangsar,P67,33540,0.68,0.24,0.07,PAS,Khalil Idham Lim Bin Abdullah,13136
+67,2013,PR,Kuala Kangsar,P67,33540,0.68,0.24,0.07,IND,Kamilia Binti Ibrahim,447
+68,2018,PR,Beruas,P68,79794,0.26,0.59,0.14,DAP,Ngeh Koo Ham,41231
+68,2018,PR,Beruas,P68,79794,0.26,0.59,0.14,GERAKAN,Pang Chok King,13277
+68,2018,PR,Beruas,P68,79794,0.26,0.59,0.14,PAS,Mohamad Nazeer Bin M K M Hameed,5759
+68,2013,PR,Beruas,P68,49205,0.33,0.52,0.15,DAP,Ngeh Koo Ham,21939
+68,2013,PR,Beruas,P68,49205,0.33,0.52,0.15,GERAKAN,Chang Ko Youn,16882
+69,2018,PR,Parit,P69,35910,0.93,0.02,0.03,UMNO,Mohd Nizar Bin Zakaria,14035
+69,2018,PR,Parit,P69,35910,0.93,0.02,0.03,PAS,Najihatussalehah Binti Ahmad,7715
+69,2018,PR,Parit,P69,35910,0.93,0.02,0.03,AMANAH,Ahmad Tarmizi Bin Mohd Jam,7240
+69,2013,PR,Parit,P69,33503,0.93,0.03,0.03,UMNO,Mohd Zaim Bin Abu Hasan,16253
+69,2013,PR,Parit,P69,33503,0.93,0.03,0.03,PAS,Muhammad Ismi Bin Mat Taib,11756
+70,2018,PR,Kampar,P70,69436,0.33,0.55,0.09,DAP,Su Keong Siong,30216
+70,2018,PR,Kampar,P70,69436,0.33,0.55,0.09,MCA,Lee Chee Leong,18415
+70,2018,PR,Kampar,P70,69436,0.33,0.55,0.09,PAS,Yougan A/L Mahalingam,3864
+70,2013,PR,Kampar,P70,63619,0.29,0.61,0.09,DAP,Ko Chung Sen,26863
+70,2013,PR,Kampar,P70,63619,0.29,0.61,0.09,MCA,Lee Chee Leong,21463
+71,2018,PR,Gopeng,P71,99167,0.43,0.46,0.09,PKR,Lee Boon Chye,48923
+71,2018,PR,Gopeng,P71,99167,0.43,0.46,0.09,MCA,Heng Seai Kie,19145
+71,2018,PR,Gopeng,P71,99167,0.43,0.46,0.09,PAS,Ismail Bin Ariffin,11165
+71,2013,PR,Gopeng,P71,97092,0.43,0.46,0.09,PKR,Lee Boon Chye,47558
+71,2013,PR,Gopeng,P71,97092,0.43,0.46,0.09,MCA,Tan Chin Meng,32249
+72,2018,PR,Tapah,P72,47128,0.47,0.26,0.15,MIC,Saravanan A/L Murugan,16086
+72,2018,PR,Tapah,P72,47128,0.47,0.26,0.15,BERSATU,Mohamed Azni Bin Mohamed Ali,15472
+72,2018,PR,Tapah,P72,47128,0.47,0.26,0.15,PAS,Norazli Bin Musa,4616
+72,2013,PR,Tapah,P72,45485,0.46,0.28,0.13,MIC,Saravanan A/L Murugan,20670
+72,2013,PR,Tapah,P72,45485,0.46,0.28,0.13,PKR,Vasantha Kumar A/L Krishnan,12743
+72,2013,PR,Tapah,P72,45485,0.46,0.28,0.13,BERJASA,Shaharuzzaman Bin Bistamam,2053
+72,2013,PR,Tapah,P72,45485,0.46,0.28,0.13,IND,Ridzuan Bin Bani,337
+73,2018,PR,Pasir Salak,P73,54671,0.81,0.13,0.04,UMNO,Tajuddin Bin Abdul Rahman,20003
+73,2018,PR,Pasir Salak,P73,54671,0.81,0.13,0.04,BERSATU,Salihuddin Bin Radin Sumadi,12291
+73,2018,PR,Pasir Salak,P73,54671,0.81,0.13,0.04,PAS,Zafarulazhan Bin Zan,11151
+73,2013,PR,Pasir Salak,P73,51498,0.79,0.14,0.04,UMNO,Tajuddin Bin Abdul Rahman,24875
+73,2013,PR,Pasir Salak,P73,51498,0.79,0.14,0.04,PKR,Mustaffa Kamil Bin Ayub,17489
+74,2018,PR,Lumut,P74,67157,0.72,0.15,0.11,AMANAH,Mohd Hatta Bin Md Ramli,21955
+74,2018,PR,Lumut,P74,67157,0.72,0.15,0.11,UMNO,Zambry Bin Abd Kadir,21555
+74,2018,PR,Lumut,P74,67157,0.72,0.15,0.11,PAS,Mohammed Zamri Bin Ibrahim,10135
+74,2013,PR,Lumut,P74,88300,0.51,0.35,0.12,PKR,Mohamad Imran Bin Abd Hamid,40308
+74,2013,PR,Lumut,P74,88300,0.51,0.35,0.12,MCA,Kong Cho Ha,32140
+75,2018,PR,Bagan Datuk,P75,47309,0.6,0.18,0.22,UMNO,Ahmad Zahid Bin Hamidi,18909
+75,2018,PR,Bagan Datuk,P75,47309,0.6,0.18,0.22,PKR,Pakhrurrazi Bin Hj Arshad,13836
+75,2018,PR,Bagan Datuk,P75,47309,0.6,0.18,0.22,PAS,Ata Abdul Muneim Bin Hasan Adli,4061
+75,2013,PR,Bagan Datuk,P75,39924,0.55,0.2,0.24,UMNO,Ahmad Zahid Bin Hamidi,17176
+75,2013,PR,Bagan Datuk,P75,39924,0.55,0.2,0.24,PKR,Madhi Bin Hasan,15068
+76,2018,PR,Telok Intan,P76,66487,0.41,0.4,0.19,DAP,Nga Kor Ming,29170
+76,2018,PR,Telok Intan,P76,66487,0.41,0.4,0.19,GERAKAN,Mah Siew Keong,17991
+76,2018,PR,Telok Intan,P76,66487,0.41,0.4,0.19,PAS,Ahmad Ramadzan Ahmad Daud,6494
+76,2013,PR,Telok Intan,P76,60483,0.38,0.42,0.19,DAP,Seah Leong Peng,27399
+76,2013,PR,Telok Intan,P76,60483,0.38,0.42,0.19,MCA,Mah Siew Keong,20086
+76,2013,PR,Telok Intan,P76,60483,0.38,0.42,0.19,IND,Moralingam A/L Kannan,279
+77,2018,PR,Tanjong Malim,P77,68468,0.56,0.26,0.13,PKR,Chang Lih Kang,24672
+77,2018,PR,Tanjong Malim,P77,68468,0.56,0.26,0.13,MCA,Mah Hang Soon,19314
+77,2018,PR,Tanjong Malim,P77,68468,0.56,0.26,0.13,PAS,Mohd Tarmizi Bin Ab Rahman,10311
+77,2013,PR,Tanjong Malim,P77,64499,0.53,0.27,0.14,MCA,Dato' Seri Ong Ka Chuan,28225
+77,2013,PR,Tanjong Malim,P77,64499,0.53,0.27,0.14,PKR,Tan Yee Kew,23897
+78,2018,PH,Cameron Highlands,P78,32048,0.34,0.3,0.15,MIC,Sivaraj A/L Chandran,10307
+78,2018,PH,Cameron Highlands,P78,32048,0.34,0.3,0.15,DAP,Manogaran Marimuthu,9710
+78,2018,PH,Cameron Highlands,P78,32048,0.34,0.3,0.15,PAS,Wan Mahadir Bin Wan Mahmud,3587
+78,2018,PH,Cameron Highlands,P78,32048,0.34,0.3,0.15,PSM,Suresh Kumar A/L Balasubramaniam,680
+78,2018,PH,Cameron Highlands,P78,32048,0.34,0.3,0.15,BERJASA,Mohd Tahir Bin Haji Kassim,81
+78,2013,PH,Cameron Highlands,P78,27980,0.34,0.32,0.12,MIC,Palanivel A/L K Govindasamy,10506
+78,2013,PH,Cameron Highlands,P78,27980,0.34,0.32,0.12,DAP,Manogaran A/L Marimuthu,10044
+78,2013,PH,Cameron Highlands,P78,27980,0.34,0.32,0.12,BERJASA,Mohd Shokri Bin Mahmood,912
+78,2013,PH,Cameron Highlands,P78,27980,0.34,0.32,0.12,IND,Alagu A/L Thangarajoo,308
+78,2013,PH,Cameron Highlands,P78,27980,0.34,0.32,0.12,IND,Kisho Kumar A/L Kathirveloo,101
+79,2018,PH,Lipis,P79,35294,0.78,0.16,0.05,UMNO,Abdul Rahman Bin Mohamad,13995
+79,2018,PH,Lipis,P79,35294,0.78,0.16,0.05,BERSATU,Badarudin Bin Abd Rahaman,7426
+79,2018,PH,Lipis,P79,35294,0.78,0.16,0.05,PAS,Sobirin Bin Hj Duli,6671
+79,2013,PH,Lipis,P79,32324,0.76,0.17,0.06,UMNO,Abdul Rahman Bin Mohamad,14863
+79,2013,PH,Lipis,P79,32324,0.76,0.17,0.06,PAS,Mohd Mahyuddin Bin Ghazal @ Razali,11394
+79,2013,PH,Lipis,P79,32324,0.76,0.17,0.06,IND,Aishaton Binti Abu Bakar,303
+80,2018,PH,Raub,P80,57723,0.52,0.38,0.06,DAP,Tengku Zulpuri Shah Bin Raja Puji,20659
+80,2018,PH,Raub,P80,57723,0.52,0.38,0.06,MCA,Chew Mei Fun,17500
+80,2018,PH,Raub,P80,57723,0.52,0.38,0.06,PAS,Mohamed Nilam Bin Abdul Manap,7866
+80,2013,PH,Raub,P80,54214,0.5,0.4,0.06,DAP,Mohd Ariff Sabri Bin Abdul Aziz,23415
+80,2013,PH,Raub,P80,54214,0.5,0.4,0.06,MCA,Hoh Khai Mun,20601
+81,2018,PH,Jerantut,P81,63609,0.82,0.13,0.03,UMNO,Ahmad Nazlan Bin Idris,22640
+81,2018,PH,Jerantut,P81,63609,0.82,0.13,0.03,PAS,Yohanis Bin Ahmad,16732
+81,2018,PH,Jerantut,P81,63609,0.82,0.13,0.03,BERSATU,Wan Mohd Shaharir Bin Wan Abd Jalil,10877
+81,2013,PH,Jerantut,P81,58364,0.81,0.14,0.03,UMNO,Ahmad Nazlan Bin Idris,26544
+81,2013,PH,Jerantut,P81,58364,0.81,0.14,0.03,PAS,Dr Hamzah Bin Jaaffar,22012
+82,2018,PH,Indera Mahkota,P82,77208,0.67,0.27,0.06,PKR,Saifuddin Bin Abdullah,28578
+82,2018,PH,Indera Mahkota,P82,77208,0.67,0.27,0.06,UMNO,Johan Bin Mat Sah,17628
+82,2018,PH,Indera Mahkota,P82,77208,0.67,0.27,0.06,PAS,Nasrudin Bin Hassan,17515
+82,2013,PH,Indera Mahkota,P82,64219,0.65,0.29,0.06,PKR,Fauzi Bin Abdul Rahman,30584
+82,2013,PH,Indera Mahkota,P82,64219,0.65,0.29,0.06,UMNO,Adnan Bin Wan Mamat,23061
+82,2013,PH,Indera Mahkota,P82,64219,0.65,0.29,0.06,IND,Ponusamy A/L Govindasamy,193
+83,2018,PH,Kuantan,P83,62696,0.67,0.3,0.03,PKR,Fuziah Binti Salleh,22807
+83,2018,PH,Kuantan,P83,62696,0.67,0.3,0.03,PAS,Sulaiman Bin Md Derus,14696
+83,2018,PH,Kuantan,P83,62696,0.67,0.3,0.03,MCA,Wong Kean Hwee,13667
+83,2013,PH,Kuantan,P83,56280,0.63,0.33,0.04,PKR,Fuziah Binti Salleh,25834
+83,2013,PH,Kuantan,P83,56280,0.63,0.33,0.04,UMNO,Mohamed Suffian Bin Awang,21319
+84,2018,PH,Paya Besar,P84,55135,0.84,0.13,0.02,UMNO,Mohd Shahar Bin Abdullah,19033
+84,2018,PH,Paya Besar,P84,55135,0.84,0.13,0.02,PAS,Mohamad Azhar Bin Mohd,13291
+84,2018,PH,Paya Besar,P84,55135,0.84,0.13,0.02,BERSATU,Mohd Ashraf Mustaqim Bin Badrul Munir,11776
+84,2013,PH,Paya Besar,P84,48067,0.81,0.15,0.02,UMNO,Abdul Manan Bin Ismail,23747
+84,2013,PH,Paya Besar,P84,48067,0.81,0.15,0.02,PKR,Murnie Hidayah Binti Anuar,16032
+84,2013,PH,Paya Besar,P84,48067,0.81,0.15,0.02,IND,Zahari Bin Mamat,272
+85,2018,PH,Pekan,P85,88899,0.88,0.02,0.01,UMNO,Mohd Najib Tun Abdul Razak,43854
+85,2018,PH,Pekan,P85,88899,0.88,0.02,0.01,PAS,Ahaitudin Bin Daud,18995
+85,2018,PH,Pekan,P85,88899,0.88,0.02,0.01,BERSATU,Muhammad Zahid Bin Md Arip,7662
+85,2018,PH,Pekan,P85,88899,0.88,0.02,0.01,BEBAS,Abd Kadir Bin Sainudin,103
+85,2013,PH,Pekan,P85,80260,0.88,0.02,0.01,UMNO,Mohd Najib Bin Hj Abd Razak,51278
+85,2013,PH,Pekan,P85,80260,0.88,0.02,0.01,PKR,Mohd Fariz B Abd Talib @ Musa,15665
+86,2018,PH,Maran,P86,41036,0.9,0.06,0.02,UMNO,Ismail Bin Abd Muttalib,16064
+86,2018,PH,Maran,P86,41036,0.9,0.06,0.02,PAS,Hasenan Bin Haron,12301
+86,2018,PH,Maran,P86,41036,0.9,0.06,0.02,BERSATU,Ahmad Farid Bin Ahmad Nordin,4360
+86,2013,PH,Maran,P86,38436,0.9,0.07,0.01,UMNO,Ismail Bin Abd Muttalib,19249
+86,2013,PH,Maran,P86,38436,0.9,0.07,0.01,PAS,Mujibur Rahman Bin Ishak,12774
+87,2018,PH,Kuala Krau,P87,47264,0.9,0.03,0.02,UMNO,Ismail Bin Mohamed Said,18058
+87,2018,PH,Kuala Krau,P87,47264,0.9,0.03,0.02,PAS,Kamal Bin Ashaari,15182
+87,2018,PH,Kuala Krau,P87,47264,0.9,0.03,0.02,BERSATU,Mohamad Rafidee Bin Hashim,5071
+87,2013,PH,Kuala Krau,P87,43003,0.9,0.03,0.03,UMNO,Ismail Bin Mohamed Said,21575
+87,2013,PH,Kuala Krau,P87,43003,0.9,0.03,0.03,PAS,Shahril Azman Bin Abd Halim,15370
+88,2018,PH,Temerloh,P88,75081,0.67,0.23,0.08,AMANAH,Mohd Anuar Bin Mohd Tahir,23998
+88,2018,PH,Temerloh,P88,75081,0.67,0.23,0.08,UMNO,Mohd Sharkar Bin Shamsudin,22094
+88,2018,PH,Temerloh,P88,75081,0.67,0.23,0.08,PAS,Md Jusoh Bin Darus,14734
+88,2018,PH,Temerloh,P88,75081,0.67,0.23,0.08,BEBAS,Mohd Khaidir Bin Ahmad,178
+88,2018,PH,Temerloh,P88,75081,0.67,0.23,0.08,BEBAS,Muhamad Fakhrudin Bin Abu Hanipah,46
+88,2013,PH,Temerloh,P88,66105,0.64,0.24,0.09,PAS,Nasrudin Bin Hassan,28267
+88,2013,PH,Temerloh,P88,66105,0.64,0.24,0.09,UMNO,Saifuddin Bin Abdullah,27197
+89,2018,PH,Bentong,P89,67359,0.47,0.42,0.09,DAP,Wong Tack,25716
+89,2018,PH,Bentong,P89,67359,0.47,0.42,0.09,MCA,Liow Tiong Lai,23684
+89,2018,PH,Bentong,P89,67359,0.47,0.42,0.09,PAS,Balasubramaniam A/L Nachiappan,5706
+89,2013,PH,Bentong,P89,62266,0.45,0.44,0.09,MCA,Liow Tiong Lai,25947
+89,2013,PH,Bentong,P89,62266,0.45,0.44,0.09,DAP,Wong Tack,25568
+90,2018,PH,Bera,P90,58711,0.62,0.29,0.04,UMNO,Ismail Sabri Bin Yaakob,20760
+90,2018,PH,Bera,P90,58711,0.62,0.29,0.04,PKR,Zakaria Bin Abdul Hamid,18449
+90,2018,PH,Bera,P90,58711,0.62,0.29,0.04,PAS,Musaniff Bin Ab Rahman,8096
+90,2013,PH,Bera,P90,50997,0.59,0.32,0.04,UMNO,Ismail Sabri Bin Yaakob,21669
+90,2013,PH,Bera,P90,50997,0.59,0.32,0.04,PKR,Zakaria Bin Abdul Hamid,19526
+90,2013,PH,Bera,P90,50997,0.59,0.32,0.04,IND,Mohd Wali Bin Alang Ahamad,670
+91,2018,PH,Rompin,P91,61918,0.88,0.02,0.01,UMNO,Hasan Bin Ariffin,26628
+91,2018,PH,Rompin,P91,61918,0.88,0.02,0.01,PAS,M Shahrul Nizam Bin Abdul Haliff,15233
+91,2018,PH,Rompin,P91,61918,0.88,0.02,0.01,PKR,Sitarunisha Binti Ab Kadir,7876
+91,2013,PH,Rompin,P91,53596,0.87,0.02,0.01,UMNO,Jamaludin Bin Jarjis,30040
+91,2013,PH,Rompin,P91,53596,0.87,0.02,0.01,PAS,Nuridah Binti Mohd Salleh,14926
+92,2018,SL,Sabak Bernam,P92,40863,0.83,0.12,0.05,UMNO,Mohd Fasiah Bin Mohd Fakeh,12862
+92,2018,SL,Sabak Bernam,P92,40863,0.83,0.12,0.05,BERSATU,Warno Bin Dogol,11188
+92,2018,SL,Sabak Bernam,P92,40863,0.83,0.12,0.05,PAS,Muhammad Labib Bin Abdul Jalil,9300
+92,2013,SL,Sabak Bernam,P92,37318,0.81,0.13,0.05,UMNO,Mohd Fasiah Bin Mohd Fakeh,16387
+92,2013,SL,Sabak Bernam,P92,37318,0.81,0.13,0.05,PKR,Abdul Aziz Bin Bari,14743
+93,2018,SL,Sungai Besar,P93,48739,0.69,0.29,0.02,BERSATU,Muslimin Bin Yahaya,17350
+93,2018,SL,Sungai Besar,P93,48739,0.69,0.29,0.02,UMNO,Budiman Bin Mohd Zohdi,16636
+93,2018,SL,Sungai Besar,P93,48739,0.69,0.29,0.02,PAS,Muhammad Salleh Bin Mohd Husin,7220
+93,2013,SL,Sungai Besar,P93,42837,0.66,0.31,0.02,UMNO,Noriah Binti Kasnon,18695
+93,2013,SL,Sungai Besar,P93,42837,0.66,0.31,0.02,PAS,Mohamed Salleh Bin M Husin,18296
+94,2018,SL,Hulu Selangor,P94,100990,0.61,0.21,0.16,PKR,Leow Hsiad Hui,40783
+94,2018,SL,Hulu Selangor,P94,100990,0.61,0.21,0.16,MIC,P Kamalanathan A/L P Panchanathan,27392
+94,2018,SL,Hulu Selangor,P94,100990,0.61,0.21,0.16,PAS,Wan Mat Bin Sulaiman,16620
+94,2018,SL,Hulu Selangor,P94,100990,0.61,0.21,0.16,BEBAS,Kumar A/L Ss Paramasivam,426
+94,2013,SL,Hulu Selangor,P94,85697,0.56,0.23,0.18,MIC,Pkamalanathan A/L Ppanchanathan,37403
+94,2013,SL,Hulu Selangor,P94,85697,0.56,0.23,0.18,PKR,Khalid Bin Jaafar,33989
+94,2013,SL,Hulu Selangor,P94,85697,0.56,0.23,0.18,IND,Radzali Bin Mokhtar,1105
+94,2013,SL,Hulu Selangor,P94,85697,0.56,0.23,0.18,IND,Santhara Kumar A/L Ramanaidu,999
+95,2018,SL,Tanjong Karang,P95,47198,0.75,0.16,0.09,UMNO,Noh Bin Omar,17596
+95,2018,SL,Tanjong Karang,P95,47198,0.75,0.16,0.09,BERSATU,Zulkafperi Bin Hanapi,15626
+95,2018,SL,Tanjong Karang,P95,47198,0.75,0.16,0.09,PAS,Nor Az Azlan Bin Ahmad,7276
+95,2013,SL,Tanjong Karang,P95,42333,0.72,0.17,0.1,UMNO,Noh Bin Omar,20548
+95,2013,SL,Tanjong Karang,P95,42333,0.72,0.17,0.1,PAS,Mohamad Rashdi Bin Deraman,16154
+95,2013,SL,Tanjong Karang,P95,42333,0.72,0.17,0.1,IND,Masrun Bin Tamsi,340
+96,2018,SL,Kuala Selangor,P96,69397,0.66,0.13,0.21,AMANAH,Dzulkefly Bin Ahmad,29842
+96,2018,SL,Kuala Selangor,P96,69397,0.66,0.13,0.21,UMNO,Irmohizam Bin Ibrahim,21344
+96,2018,SL,Kuala Selangor,P96,69397,0.66,0.13,0.21,PAS,Mohd Fakaruddin Bin Ismail,8535
+96,2013,SL,Kuala Selangor,P96,62298,0.64,0.13,0.22,UMNO,Irmohizam Bin Ibrahim,27500
+96,2013,SL,Kuala Selangor,P96,62298,0.64,0.13,0.22,PAS,Dzulkefly Bin Ahmad,27040
+97,2018,SL,Selayang,P97,116176,0.53,0.29,0.18,PKR,William Leong Jee Keen,60158
+97,2018,SL,Selayang,P97,116176,0.53,0.29,0.18,MCA,Kang Meng Fuat,19501
+97,2018,SL,Selayang,P97,116176,0.53,0.29,0.18,PAS,Hashim Bin Abdul Karim,18343
+97,2013,SL,Selayang,P97,105895,0.45,0.36,0.17,PKR,William Leong Jee Keen,52287
+97,2013,SL,Selayang,P97,105895,0.45,0.36,0.17,MCA,Lim Siang Chai,34441
+97,2013,SL,Selayang,P97,105895,0.45,0.36,0.17,BERJASA,Haji Mohd Hazizi Bin Ab Rahman,4152
+98,2018,SL,Gombak,P98,141112,0.77,0.11,0.11,PKR,Mohamad Azmin Bin Ali,75113
+98,2018,SL,Gombak,P98,141112,0.77,0.11,0.11,UMNO,Abdul Rahim Bin Pandak Kamaruddin,26392
+98,2018,SL,Gombak,P98,141112,0.77,0.11,0.11,PAS,Khairil Nizam Bin Khirudin,17537
+98,2013,SL,Gombak,P98,123290,0.74,0.13,0.11,PKR,Mohamed Azmin Bin Ali,54827
+98,2013,SL,Gombak,P98,123290,0.74,0.13,0.11,UMNO,Raman Bin Ismail,50093
+98,2013,SL,Gombak,P98,123290,0.74,0.13,0.11,IND,Said Nazar Bin Abu Baker,474
+99,2018,SL,Ampang,P99,91737,0.56,0.35,0.09,PKR,Zuraidah Binti Kamaruddin,54307
+99,2018,SL,Ampang,P99,91737,0.56,0.35,0.09,MCA,Leong Kim Soon,12351
+99,2018,SL,Ampang,P99,91737,0.56,0.35,0.09,PAS,Nurul Islam Mohamed Yusoff,9598
+99,2018,SL,Ampang,P99,91737,0.56,0.35,0.09,PRM,Tan Hua Meng,294
+99,2013,SL,Ampang,P99,83135,0.55,0.34,0.1,PKR,Zuraida Binti Kamaruddin,41969
+99,2013,SL,Ampang,P99,83135,0.55,0.34,0.1,UMNO,Rozaidah Binti Talib,28691
+100,2018,SL,Pandan,P100,101319,0.46,0.46,0.07,PKR,Wan Azizah Binti Wan Ismail,64733
+100,2018,SL,Pandan,P100,101319,0.46,0.46,0.07,MCA,Leong Kok Wee,12190
+100,2018,SL,Pandan,P100,101319,0.46,0.46,0.07,PAS,Mohamed Sukri Bin Omar,8336
+100,2018,SL,Pandan,P100,101319,0.46,0.46,0.07,PRM,Lee Ying Ha,442
+100,2018,SL,Pandan,P100,101319,0.46,0.46,0.07,BEBAS,Mohd Khairul Azam Bin Abdul Aziz,73
+100,2013,SL,Pandan,P100,83857,0.44,0.48,0.07,PKR,Mohd Rafizi Bin Ramli,48183
+100,2013,SL,Pandan,P100,83857,0.44,0.48,0.07,MCA,Lim Chin Yee,21454
+100,2013,SL,Pandan,P100,83857,0.44,0.48,0.07,IND,Tan Yew Leng,2415
+101,2018,SL,Hulu Langat,P101,102363,0.66,0.22,0.1,AMANAH,Hasanuddin Bin Mohd Yunus,49004
+101,2018,SL,Hulu Langat,P101,102363,0.66,0.22,0.1,UMNO,Azman Ahmad,23580
+101,2018,SL,Hulu Langat,P101,102363,0.66,0.22,0.1,PAS,Che Rosli Bin Che Mat,15663
+101,2013,SL,Hulu Langat,P101,127347,0.53,0.34,0.11,PAS,Che Rosli Bin Che Mat,64127
+101,2013,SL,Hulu Langat,P101,127347,0.53,0.34,0.11,UMNO,Adzhaliza Binti Mohd Nor,46860
+102,2018,SL,Bangi,P102,178790,0.49,0.39,0.11,DAP,Ong Kian Ming,102557
+102,2018,SL,Bangi,P102,178790,0.49,0.39,0.11,PAS,Mohd Shafie Bin Ngah,33789
+102,2018,SL,Bangi,P102,178790,0.49,0.39,0.11,MCA,Liew Yuen Keong,19766
+102,2018,SL,Bangi,P102,178790,0.49,0.39,0.11,PRM,Wan Jinn Woei,215
+102,2013,SL,Bangi,P102,133139,0.39,0.49,0.11,DAP,Ong Kian Ming,79238
+102,2013,SL,Bangi,P102,133139,0.39,0.49,0.11,MCA,Yap Pian Hon,37032
+103,2018,SL,Puchong,P103,96437,0.37,0.52,0.1,DAP,Gobind Singh Deo,60429
+103,2018,SL,Puchong,P103,96437,0.37,0.52,0.1,GERAKAN,Ang Chin Tat,12794
+103,2018,SL,Puchong,P103,96437,0.37,0.52,0.1,PAS,Mohd Rosharizan Mohd Rozlan,10255
+103,2013,SL,Puchong,P103,107010,0.39,0.44,0.16,DAP,Gobind Singh Deo,62938
+103,2013,SL,Puchong,P103,107010,0.39,0.44,0.16,GERAKAN,A Kohilan Pillay A/L G Appu,30136
+104,2018,SL,Subang,P104,146422,0.27,0.57,0.15,PKR,Wong Chen,104430
+104,2018,SL,Subang,P104,146422,0.27,0.57,0.15,MCA,Tan Seong Lim,12077
+104,2018,SL,Subang,P104,146422,0.27,0.57,0.15,IKATAN,Mohd Shahir Bin Mohd Adnan,9025
+104,2018,SL,Subang,P104,146422,0.27,0.57,0.15,BEBAS,Toh Sin Wah,173
+104,2013,SL,Subang,P104,101236,0.38,0.42,0.18,PKR,Wong Chen,56790
+104,2013,SL,Subang,P104,101236,0.38,0.42,0.18,MCA,Loh Seng Kok,27963
+104,2013,SL,Subang,P104,101236,0.38,0.42,0.18,IND,Toh Sin Wah,363
+105,2018,SL,Petaling Jaya,P105,140920,0.47,0.32,0.19,PKR,Maria Chin Binti Abdullah,78984
+105,2018,SL,Petaling Jaya,P105,140920,0.47,0.32,0.19,MCA,Chew Hian Tat,21847
+105,2018,SL,Petaling Jaya,P105,140920,0.47,0.32,0.19,PAS,Noraini Binti Hussin,14448
+105,2013,SL,Petaling Jaya,P105,79558,0.4,0.42,0.17,PKR,Hee Loy Sian,41062
+105,2013,SL,Petaling Jaya,P105,79558,0.4,0.42,0.17,MCA,Sheah Kok Fah,21846
+105,2013,SL,Petaling Jaya,P105,79558,0.4,0.42,0.17,IND,Ibrahim Bin Khatib,1447
+106,2018,SL,Damansara,P106,164322,0.2,0.69,0.09,DAP,Pua Kiam Wee,121283
+106,2018,SL,Damansara,P106,164322,0.2,0.69,0.09,MCA,Ho Kwok Xheng,14380
+106,2018,SL,Damansara,P106,164322,0.2,0.69,0.09,PRM,Wong Mun Kheong,617
+106,2013,SL,Damansara,P106,85401,0.14,0.77,0.07,DAP,Pua Kiam Wee,57407
+106,2013,SL,Damansara,P106,85401,0.14,0.77,0.07,MCA,Chew Hoong Ling,12735
+107,2018,SL,Sungai Buloh,P107,90707,0.66,0.22,0.11,PKR,Sivarasa A/L Rasiah,43631
+107,2018,SL,Sungai Buloh,P107,90707,0.66,0.22,0.11,PAS,Nuridah Binti Mohd Salleh,16997
+107,2018,SL,Sungai Buloh,P107,90707,0.66,0.22,0.11,MIC,Pakas Rao A/L Applanaidoo,16681
+107,2018,SL,Sungai Buloh,P107,90707,0.66,0.22,0.11,PSM,Zainurizzaman Bin Moharam,642
+107,2013,SL,Sungai Buloh,P107,128543,0.48,0.38,0.13,PKR,Sivarasa A/L K Rasiah,66268
+107,2013,SL,Sungai Buloh,P107,128543,0.48,0.38,0.13,MIC,Pakas Rao A/L Applanaidoo,39549
+107,2013,SL,Sungai Buloh,P107,128543,0.48,0.38,0.13,BERJASA,Mohamad Bin Ismail,4454
+107,2013,SL,Sungai Buloh,P107,128543,0.48,0.38,0.13,IND,Nazaruddin Bin Mohamed Ferdoos,460
+107,2013,SL,Sungai Buloh,P107,128543,0.48,0.38,0.13,IND,Edros Bin Abdullah,218
+108,2018,SL,Shah Alam,P108,107316,0.76,0.11,0.13,AMANAH,Khalid Bin Abd Samad,55949
+108,2018,SL,Shah Alam,P108,107316,0.76,0.11,0.13,UMNO,Azhari Bin Saari,22100
+108,2018,SL,Shah Alam,P108,107316,0.76,0.11,0.13,PAS,Moh Zuhdi Bin Marsuki,15194
+108,2013,SL,Shah Alam,P108,99957,0.69,0.15,0.14,PAS,Khalid Bin Abd Samad,49009
+108,2013,SL,Shah Alam,P108,99957,0.69,0.15,0.14,BN,Zulkifli Bin Noordin,38070
+109,2018,SL,Kapar,P109,124983,0.71,0.15,0.14,PKR,Abdullah Sani Bin Abdul Hamid,47731
+109,2018,SL,Kapar,P109,124983,0.71,0.15,0.14,PAS,Abdul Rani Bin Osman,31425
+109,2018,SL,Kapar,P109,124983,0.71,0.15,0.14,MIC,Mohana A/P Muniandy Raman,26412
+109,2018,SL,Kapar,P109,124983,0.71,0.15,0.14,PRM,S Manikavasagam A/L Sundaram,525
+109,2013,SL,Kapar,P109,144159,0.51,0.34,0.14,PKR,G Manivannan A/L Gowindasamy,69849
+109,2013,SL,Kapar,P109,144159,0.51,0.34,0.14,MIC,Sakthivel A/L Alagappan,46059
+109,2013,SL,Kapar,P109,144159,0.51,0.34,0.14,BERJASA,Mohd Pathan Bin Hussin,6289
+109,2013,SL,Kapar,P109,144159,0.51,0.34,0.14,IND,Norhamzah Bin Suratman,1067
+109,2013,SL,Kapar,P109,144159,0.51,0.34,0.14,IND,Mohd Nazri Bin Abdul Aziz,835
+109,2013,SL,Kapar,P109,144159,0.51,0.34,0.14,IND,Palaya A/L Rengaiah,231
+110,2018,SL,Klang,P110,149348,0.27,0.55,0.17,DAP,Charles Anthony A/L R Santiago,98279
+110,2018,SL,Klang,P110,149348,0.27,0.55,0.17,MCA,Ching Eu Boon,19506
+110,2018,SL,Klang,P110,149348,0.27,0.55,0.17,PAS,Khairul Shah Bin Abdullah,9169
+110,2018,SL,Klang,P110,149348,0.27,0.55,0.17,BEBAS,Puvananderan A/L Ganasamoorthy,120
+110,2013,SL,Klang,P110,97073,0.32,0.46,0.2,DAP,Charles Anthony A/L R Santiago,53719
+110,2013,SL,Klang,P110,97073,0.32,0.46,0.2,MCA,Teh Kim Poo,29034
+111,2018,SL,Kota Raja,P111,149021,0.44,0.28,0.28,AMANAH,Mohamad Bin Sabu,90697
+111,2018,SL,Kota Raja,P111,149021,0.44,0.28,0.28,PAS,Mohamed Diah Bin Baharun,19555
+111,2018,SL,Kota Raja,P111,149021,0.44,0.28,0.28,MIC,V Gunalan A/L Velu,17874
+111,2013,SL,Kota Raja,P111,105909,0.44,0.25,0.29,PAS,Siti Mariah Binti Mahmud,59106
+111,2013,SL,Kota Raja,P111,105909,0.44,0.25,0.29,MIC,Murugesan A/L Sinnandavar,29711
+111,2013,SL,Kota Raja,P111,105909,0.44,0.25,0.29,IND,Uthayakumar A/L Ponnusamy,2364
+111,2013,SL,Kota Raja,P111,105909,0.44,0.25,0.29,IND,Azman Bin Idrus,280
+112,2018,SL,Kuala Langat,P112,102406,0.57,0.24,0.16,PKR,Xavier Jayakumar A/L Arulanandam,43239
+112,2018,SL,Kuala Langat,P112,102406,0.57,0.24,0.16,UMNO,Shahril Sufian Bin Hamdan,26127
+112,2018,SL,Kuala Langat,P112,102406,0.57,0.24,0.16,PAS,Yahya Bin Baba,18731
+112,2013,SL,Kuala Langat,P112,88474,0.52,0.26,0.17,PKR,Abdullah Sani Bin Abdul Hamid,40983
+112,2013,SL,Kuala Langat,P112,88474,0.52,0.26,0.17,UMNO,Sharuddin Bin Omar,35625
+112,2013,SL,Kuala Langat,P112,88474,0.52,0.26,0.17,IND,Kottappan A/L Suppaiah,426
+113,2018,SL,Sepang,P113,104508,0.63,0.2,0.14,AMANAH,Mohamed Hanipa Bin Maidin,46740
+113,2018,SL,Sepang,P113,104508,0.63,0.2,0.14,UMNO,Marsum Paing,28035
+113,2018,SL,Sepang,P113,104508,0.63,0.2,0.14,PAS,Sabirin Bin Marsono,15882
+113,2013,SL,Sepang,P113,84362,0.57,0.22,0.16,PAS,Mohamed Hanipa Bin Maidin,36774
+113,2013,SL,Sepang,P113,84362,0.57,0.22,0.16,UMNO,Mohd Zin Bin Mohamed,35670
+113,2013,SL,Sepang,P113,84362,0.57,0.22,0.16,IND,Suhaimi Bin Mohd Ghazali,963
+113,2013,SL,Sepang,P113,84362,0.57,0.22,0.16,IND,Hanapiah Bin Mohamad,318
+114,2018,WP,Kepong,P114,72696,0.05,0.89,0.06,DAP,Lim Lip Eng,56516
+114,2018,WP,Kepong,P114,72696,0.05,0.89,0.06,GERAKAN,Ong Siang Liang,4888
+114,2013,WP,Kepong,P114,68035,0.04,0.89,0.06,DAP,Tan Seng Giaw @ Tan Chun Tin,47837
+114,2013,WP,Kepong,P114,68035,0.04,0.89,0.06,PPP,Chandrakumanan A/L Arumugam,7530
+114,2013,WP,Kepong,P114,68035,0.04,0.89,0.06,IND,Yee Poh Ping,2757
+115,2018,WP,Batu,P115,76328,0.43,0.38,0.17,BEBAS,Prabakaran A/L M Parameswaran,38125
+115,2018,WP,Batu,P115,76328,0.43,0.38,0.17,GERAKAN,Dominic Lau Hoe Chai,13687
+115,2018,WP,Batu,P115,76328,0.43,0.38,0.17,PAS,Azhar Bin Yahya,10610
+115,2018,WP,Batu,P115,76328,0.43,0.38,0.17,BEBAS,Vm Panjamothy A/L Muthusamy,383
+115,2013,WP,Batu,P115,85402,0.44,0.38,0.16,PKR,Chua Tian Chang,41672
+115,2013,WP,Batu,P115,85402,0.44,0.38,0.16,GERAKAN,Dominic Lau Hoe Chai,28388
+115,2013,WP,Batu,P115,85402,0.44,0.38,0.16,BERJASA,Hashim Bin Abdul Karim,949
+115,2013,WP,Batu,P115,85402,0.44,0.38,0.16,IND,Nazariah Binti Abbas,209
+115,2013,WP,Batu,P115,85402,0.44,0.38,0.16,IND,Atan Bin Jasin,164
+116,2018,WP,Wangsa Maju,P116,88482,0.61,0.3,0.08,PKR,Tan Yee Kew,42178
+116,2018,WP,Wangsa Maju,P116,88482,0.61,0.3,0.08,MCA,Yew Teong Look,17940
+116,2018,WP,Wangsa Maju,P116,88482,0.61,0.3,0.08,PAS,Razali Bin Tumirin,13490
+116,2013,WP,Wangsa Maju,P116,67775,0.53,0.36,0.09,PKR,Tan Kee Kwong,31641
+116,2013,WP,Wangsa Maju,P116,67775,0.53,0.36,0.09,UMNO,Mohd Shafei Bin Abdullah,26130
+117,2018,WP,Segambut,P117,77956,0.28,0.59,0.12,PKR,Yeoh Tseow Suan,53124
+117,2018,WP,Segambut,P117,77956,0.28,0.59,0.12,MYPPP,Loga Bala Mohan A/L Jaganathan,7422
+117,2018,WP,Segambut,P117,77956,0.28,0.59,0.12,PAS,Mohd Solleh Bin Ab Razak,4181
+117,2013,WP,Segambut,P117,75631,0.33,0.53,0.12,DAP,Lim Lip Eng,41383
+117,2013,WP,Segambut,P117,75631,0.33,0.53,0.12,GERAKAN,Jayanthi Devi A/P Balaguru,22184
+118,2018,WP,Setiawangsa,P118,72136,0.62,0.26,0.1,PKR,Nik Nazmi Bin Nik Ahmad,34471
+118,2018,WP,Setiawangsa,P118,72136,0.62,0.26,0.1,UMNO,Zulhasnan Bin Rafique,20099
+118,2018,WP,Setiawangsa,P118,72136,0.62,0.26,0.1,PAS,Ubaid Abd Akla,6282
+118,2013,WP,Setiawangsa,P118,62309,0.56,0.3,0.11,UMNO,Ahmad Fauzi Bin Zahari,26809
+118,2013,WP,Setiawangsa,P118,62309,0.56,0.3,0.11,PKR,Ibrahim Bin Yaacob,25419
+119,2018,WP,Titiwangsa,P119,61598,0.72,0.17,0.09,BERSATU,Rina Binti Mohd Harun,23840
+119,2018,WP,Titiwangsa,P119,61598,0.72,0.17,0.09,UMNO,Johari Bin Abdul Ghani,19701
+119,2018,WP,Titiwangsa,P119,61598,0.72,0.17,0.09,PAS,Mohamad Noor Bin Mohamad,6845
+119,2013,WP,Titiwangsa,P119,55282,0.68,0.2,0.1,UMNO,Johari Bin Abdul Ghani,23034
+119,2013,WP,Titiwangsa,P119,55282,0.68,0.2,0.1,PAS,Ahmad Zamri Bin Asa'ad Khuzami,22168
+120,2018,WP,Bukit Bintang,P120,69526,0.13,0.75,0.11,DAP,Fong Kui Lun,44516
+120,2018,WP,Bukit Bintang,P120,69526,0.13,0.75,0.11,MCA,Tan Ean Ean,7256
+120,2018,WP,Bukit Bintang,P120,69526,0.13,0.75,0.11,PFP,Khairul Husni Bin Othman,636
+120,2013,WP,Bukit Bintang,P120,55721,0.14,0.73,0.11,DAP,Fong Kui Lun,30408
+120,2013,WP,Bukit Bintang,P120,55721,0.14,0.73,0.11,MCA,Gan Joon Zin,11009
+121,2018,WP,Lembah Pantai,P121,80346,0.63,0.19,0.16,PKR,Ahmad Fahmi Bin Mohamed Fadzil,33313
+121,2018,WP,Lembah Pantai,P121,80346,0.63,0.19,0.16,UMNO,Raja Nong Chik Raja Zainal Abidin,27715
+121,2018,WP,Lembah Pantai,P121,80346,0.63,0.19,0.16,PAS,Fauzi Abu Bakar,5277
+121,2013,WP,Lembah Pantai,P121,72396,0.55,0.23,0.2,PKR,Nurul Izzah Binti Anwar,31008
+121,2013,WP,Lembah Pantai,P121,72396,0.55,0.23,0.2,UMNO,Raja Nong Chik Bin Raja Zainal Abidin,29161
+121,2013,WP,Lembah Pantai,P121,72396,0.55,0.23,0.2,IND,Rusli Bin Baba,167
+122,2018,WP,Seputeh,P122,86256,0.09,0.82,0.08,DAP,Teresa Kok Suh Sim,63094
+122,2018,WP,Seputeh,P122,86256,0.09,0.82,0.08,MCA,Chan Quin Er,7035
+122,2013,WP,Seputeh,P122,85976,0.05,0.88,0.06,DAP,Teresa Kok Suh Sim,61500
+122,2013,WP,Seputeh,P122,85976,0.05,0.88,0.06,MCA,Wong Siaw Ting,9948
+123,2018,WP,Cheras,P123,78819,0.1,0.83,0.07,DAP,Tan Kok Wai,56671
+123,2018,WP,Cheras,P123,78819,0.1,0.83,0.07,MCA,Heng Sinn Yee,7006
+123,2013,WP,Cheras,P123,72551,0.1,0.82,0.07,DAP,Tan Kok Wai,48249
+123,2013,WP,Cheras,P123,72551,0.1,0.82,0.07,MCA,Teoh Chee Hooi,10840
+124,2018,WP,Bandar Tun Razak,P124,83650,0.61,0.29,0.08,PKR,Kamarudin Bin Jaffar,41126
+124,2018,WP,Bandar Tun Razak,P124,83650,0.61,0.29,0.08,UMNO,Adnan Bin Seman @ Abdullah,21196
+124,2018,WP,Bandar Tun Razak,P124,83650,0.61,0.29,0.08,PAS,Rosni Binti Adam,7884
+124,2013,WP,Bandar Tun Razak,P124,90993,0.53,0.37,0.09,PKR,Abd Khalid Bin Ibrahim,44067
+124,2013,WP,Bandar Tun Razak,P124,90993,0.53,0.37,0.09,MCA,Tan Kok Eng,32235
+124,2013,WP,Bandar Tun Razak,P124,90993,0.53,0.37,0.09,IND,Mohamad Sukeri Bin Abdul Samat,793
+124,2013,WP,Bandar Tun Razak,P124,90993,0.53,0.37,0.09,IND,Mokhtar Bin Salahudin,191
+125,2018,WP,Putrajaya,P125,27306,0.95,0.01,0.03,UMNO,Tengku Adnan Tengku Mansur,12148
+125,2018,WP,Putrajaya,P125,27306,0.95,0.01,0.03,BERSATU,Samsu Adabi Bin Mamat,8776
+125,2018,WP,Putrajaya,P125,27306,0.95,0.01,0.03,PAS,Zainal Abidin Kidam,3634
+125,2013,WP,Putrajaya,P125,15791,0.94,0.01,0.03,UMNO,Tengku Adnan Bin Tengku Mansor,9943
+125,2013,WP,Putrajaya,P125,15791,0.94,0.01,0.03,PAS,Husam Bin Musa,4402
+126,2018,NS,Jelebu,P126,48522,0.65,0.24,0.06,UMNO,Jalaluddin Bin Alias,19062
+126,2018,NS,Jelebu,P126,48522,0.65,0.24,0.06,AMANAH,Mustafar Bin Ab Kadir,17017
+126,2018,NS,Jelebu,P126,48522,0.65,0.24,0.06,PAS,Norman Bin Ipin,2878
+126,2013,NS,Jelebu,P126,44937,0.63,0.26,0.06,UMNO,Zainudin Bin Ismail,22114
+126,2013,NS,Jelebu,P126,44937,0.63,0.26,0.06,PAS,Raj Munni Binti Sabu,15013
+127,2018,NS,Jempol,P127,72122,0.64,0.23,0.12,UMNO,Haji Mohd Salim Bin Sharif @ Mohd Sharif,26819
+127,2018,NS,Jempol,P127,72122,0.64,0.23,0.12,BERSATU,Kamarulzaman Bin Kamdias,25188
+127,2018,NS,Jempol,P127,72122,0.64,0.23,0.12,PAS,Mustaffa Bin Daharun,5267
+127,2013,NS,Jempol,P127,65213,0.6,0.25,0.13,UMNO,Mohd Isa Bin Abdul Samad,31109
+127,2013,NS,Jempol,P127,65213,0.6,0.25,0.13,PAS,Wan Aishah Binti Wan Ariffin,22495
+128,2018,NS,Seremban,P128,110168,0.49,0.37,0.13,DAP,Loke Siew Fook,55503
+128,2018,NS,Seremban,P128,110168,0.49,0.37,0.13,MCA,Chong Sin Woon,24809
+128,2018,NS,Seremban,P128,110168,0.49,0.37,0.13,PAS,Shariffuddin Bin Ahmad,11506
+128,2013,NS,Seremban,P128,102305,0.44,0.41,0.14,DAP,Loke Siew Fook,45628
+128,2013,NS,Seremban,P128,102305,0.44,0.41,0.14,MCA,Yeow Chai Thiam,33075
+128,2013,NS,Seremban,P128,102305,0.44,0.41,0.14,BERJASA,Abdul Halim Bin Abdullah,6866
+128,2013,NS,Seremban,P128,102305,0.44,0.41,0.14,IND,John A/L Fernandez,221
+128,2013,NS,Seremban,P128,102305,0.44,0.41,0.14,IND,Bujang Bin Abu,83
+129,2018,NS,Kuala Pilah,P129,49801,0.77,0.16,0.05,BERSATU,Eddin Syazlee Bin Shith,18045
+129,2018,NS,Kuala Pilah,P129,49801,0.77,0.16,0.05,UMNO,Hasan Bin Malek,17845
+129,2018,NS,Kuala Pilah,P129,49801,0.77,0.16,0.05,PAS,Rafiei Bin Mustapha,4347
+129,2013,NS,Kuala Pilah,P129,47671,0.76,0.17,0.05,UMNO,Hasan Bin Malek,24507
+129,2013,NS,Kuala Pilah,P129,47671,0.76,0.17,0.05,PKR,Mohd Nazree Bin Mohd Yunus,14846
+130,2018,NS,Rasah,P130,102838,0.3,0.48,0.21,DAP,Cha Kee Chin,61806
+130,2018,NS,Rasah,P130,102838,0.3,0.48,0.21,MCA,Ng Kian Nam,14939
+130,2018,NS,Rasah,P130,102838,0.3,0.48,0.21,PAS,Mohd Khairil Anuar Bin Mohd Wafa,8260
+130,2018,NS,Rasah,P130,102838,0.3,0.48,0.21,PAP,David Dass Aseerpatham,302
+130,2013,NS,Rasah,P130,88403,0.28,0.48,0.22,DAP,Teo Kok Seong,48964
+130,2013,NS,Rasah,P130,88403,0.28,0.48,0.22,MCA,Teo Eng Kian,25479
+131,2018,NS,Rembau,P131,88365,0.74,0.1,0.15,UMNO,Khairy Jamaluddin Bin Abu Bakar,36096
+131,2018,NS,Rembau,P131,88365,0.74,0.1,0.15,PKR,Roseli Bin Abdul Gani,31732
+131,2018,NS,Rembau,P131,88365,0.74,0.1,0.15,PAS,Mustafa Bin Dolah,6028
+131,2013,NS,Rembau,P131,79661,0.7,0.12,0.16,UMNO,Khairy Jamaluddin Abu Bakar,43053
+131,2013,NS,Rembau,P131,79661,0.7,0.12,0.16,PKR,Radzali Bin A Ghani,24696
+131,2013,NS,Rembau,P131,79661,0.7,0.12,0.16,IND,Abdul Aziz Bin Hassan,325
+132,2018,NS,Port Dickson,P132,75212,0.43,0.33,0.22,PKR,Danyal Balagopal Abdullah,36225
+132,2018,NS,Port Dickson,P132,75212,0.43,0.33,0.22,MIC,Mogan A/L Velayatham,18515
+132,2018,NS,Port Dickson,P132,75212,0.43,0.33,0.22,PAS,Mahfuz Bin Roslan,6594
+132,2013,NS,Port Dickson,P132,70524,0.42,0.34,0.21,PKR,Kamarul Baharin Bin Abbas,29848
+132,2013,NS,Port Dickson,P132,70524,0.42,0.34,0.21,MIC,Mogan A/L Velayatham,28269
+132,2013,NS,Port Dickson,P132,70524,0.42,0.34,0.21,IND,Kamarudin Kumaravel Bin Abdullah,394
+133,2018,NS,Tampin,P133,60765,0.63,0.24,0.12,AMANAH,Hasan Bahrom,22435
+133,2018,NS,Tampin,P133,60765,0.63,0.24,0.12,UMNO,Shaziman Abu Mansor,21433
+133,2018,NS,Tampin,P133,60765,0.63,0.24,0.12,PAS,Abdul Halim Bin Abu Bakar,4598
+133,2013,NS,Tampin,P133,57268,0.61,0.24,0.13,UMNO,Shaziman Bin Abu Mansor,29390
+133,2013,NS,Tampin,P133,57268,0.61,0.24,0.13,PAS,Abdul Razakek Bin Abdul Rahim,18228
+134,2018,MK,Masjid Tanah,P134,51441,0.84,0.12,0.04,UMNO,Mas Ermieyati Binti Samsudin,22898
+134,2018,MK,Masjid Tanah,P134,51441,0.84,0.12,0.04,BERSATU,Sabirin Bin Ja'afar,14739
+134,2018,MK,Masjid Tanah,P134,51441,0.84,0.12,0.04,PAS,Mohd Nasir Bin Othman,4688
+134,2013,MK,Masjid Tanah,P134,45952,0.82,0.13,0.04,UMNO,Mas Ermieyati Binti Samsudin,27688
+134,2013,MK,Masjid Tanah,P134,45952,0.82,0.13,0.04,PAS,Mohd Nasaie Bin Ismail,11488
+135,2018,MK,Alor Gajah,P135,70364,0.61,0.25,0.13,BERSATU,Mohd Redzuan Bin Md Yusof,29330
+135,2018,MK,Alor Gajah,P135,70364,0.61,0.25,0.13,MCA,Wong Nai Chee,22350
+135,2018,MK,Alor Gajah,P135,70364,0.61,0.25,0.13,PAS,Mohammad Nazree Bin Mohammad Aris,6135
+135,2013,MK,Alor Gajah,P135,63591,0.59,0.28,0.13,MCA,Koh Nai Kwong,32594
+135,2013,MK,Alor Gajah,P135,63591,0.59,0.28,0.13,DAP,Damian Yeo Shen Li,20997
+136,2018,MK,Tangga Batu,P136,83213,0.71,0.22,0.04,PKR,Rusnah Binti Aluai,32420
+136,2018,MK,Tangga Batu,P136,83213,0.71,0.22,0.04,UMNO,Zali Bin Mat Yasin,27761
+136,2018,MK,Tangga Batu,P136,83213,0.71,0.22,0.04,PAS,Zulkifli Bin Ismail,8961
+136,2013,MK,Tangga Batu,P136,73282,0.68,0.25,0.04,UMNO,Abu Bakar Bin Mohamad Diah,39468
+136,2013,MK,Tangga Batu,P136,73282,0.68,0.25,0.04,PKR,Rahim Bin Ali,23835
+137,2018,MK,Hang Tuah Jaya,P137,89364,0.63,0.31,0.06,PKR,Shamsul Iskandar @ Yusre Bin Mohd Akin,39067
+137,2018,MK,Hang Tuah Jaya,P137,89364,0.63,0.31,0.06,UMNO,Mohd Ali Bin Mohd Rustam,30427
+137,2018,MK,Hang Tuah Jaya,P137,89364,0.63,0.31,0.06,PAS,Md Khalid Bin Kassim,7089
+137,2013,MK,Hang Tuah Jaya,P137,99438,0.53,0.41,0.06,PKR,Shamsul Iskandar @ Yusre Bin Mohd Akin,46167
+137,2013,MK,Hang Tuah Jaya,P137,99438,0.53,0.41,0.06,UMNO,Haji Mohd Ali Bin Haji Mohd Rustam,40720
+138,2018,MK,Kota Melaka,P138,126848,0.38,0.57,0.04,DAP,Khoo Poay Tiong,76518
+138,2018,MK,Kota Melaka,P138,126848,0.38,0.57,0.04,MCA,Choo Wei Sern,27343
+138,2018,MK,Kota Melaka,P138,126848,0.38,0.57,0.04,BEBAS,Goh Leong San,1415
+138,2013,MK,Kota Melaka,P138,92322,0.36,0.59,0.04,DAP,Sim Tong Him,49521
+138,2013,MK,Kota Melaka,P138,92322,0.36,0.59,0.04,MCA,Yee Kok Wah,28775
+139,2018,MK,Jasin,P139,73432,0.74,0.16,0.1,UMNO,Ahmad Hamzah,26560
+139,2018,MK,Jasin,P139,73432,0.74,0.16,0.1,AMANAH,Khairuddin Bin Abu Hassan,26341
+139,2018,MK,Jasin,P139,73432,0.74,0.16,0.1,PAS,Abd Alim Bin Shapie,8860
+139,2013,MK,Jasin,P139,64455,0.71,0.18,0.1,UMNO,Ahmad Bin Hamzah,33736
+139,2013,MK,Jasin,P139,64455,0.71,0.18,0.1,PKR,Rahmat Bin Yusof,21973
+140,2018,JH,Segamat,P140,55350,0.47,0.43,0.1,PKR,Santhara Kumar A/L Ramanaidu,24060
+140,2018,JH,Segamat,P140,55350,0.47,0.43,0.1,MIC,Subramaniam A/L Kv Sathasivam,18584
+140,2018,JH,Segamat,P140,55350,0.47,0.43,0.1,PAS,Khairul Faizi Bin Ahmad,2676
+140,2013,JH,Segamat,P140,47009,0.44,0.46,0.1,MIC,Subramaniam A/L Kv Sathasivam,20037
+140,2013,JH,Segamat,P140,47009,0.44,0.46,0.1,PKR,Dato Chua Jui Meng,18820
+141,2018,JH,Sekijang,P141,45596,0.59,0.36,0.04,PKR,Natrah Binti Ismail,19559
+141,2018,JH,Sekijang,P141,45596,0.59,0.36,0.04,UMNO,Ayub Bin Rahmat,18278
+141,2013,JH,Sekijang,P141,43066,0.56,0.39,0.05,UMNO,Anuar Bin Abd Manap,19934
+141,2013,JH,Sekijang,P141,43066,0.56,0.39,0.05,PKR,Julailey Bin Jemadi,16927
+142,2018,JH,Labis,P142,40356,0.38,0.45,0.15,DAP,Pang Hok Liong,16709
+142,2018,JH,Labis,P142,40356,0.38,0.45,0.15,MCA,Chua Tee Yong,13301
+142,2018,JH,Labis,P142,40356,0.38,0.45,0.15,PAS,Sarchu Bin Sawal,2020
+142,2013,JH,Labis,P142,37714,0.36,0.47,0.15,MCA,Chua Tee Yong,15821
+142,2013,JH,Labis,P142,37714,0.36,0.47,0.15,DAP,Ramakrishnan A/L Suppiah,15468
+143,2018,JH,Pagoh,P143,51512,0.66,0.3,0.04,BERSATU,Muhyiddin Bin Mohd Yassin,23558
+143,2018,JH,Pagoh,P143,51512,0.66,0.3,0.04,UMNO,Ismail Bin Mohamed Said,16631
+143,2018,JH,Pagoh,P143,51512,0.66,0.3,0.04,PAS,Ahmad Nawfal Bin Mahfodz,2483
+143,2013,JH,Pagoh,P143,46793,0.64,0.31,0.04,UMNO,Muhyiddin Bin Mohd Yassin,26274
+143,2013,JH,Pagoh,P143,46793,0.64,0.31,0.04,PAS,Mohamad Rozali Bin Jamil,13432
+144,2018,JH,Ledang,P144,77474,0.56,0.39,0.05,PKR,Syed Ibrahim Bin Syed Nor,34706
+144,2018,JH,Ledang,P144,77474,0.56,0.39,0.05,UMNO,Hamim Bin Samuri,26040
+144,2018,JH,Ledang,P144,77474,0.56,0.39,0.05,PAS,Rusman Bin Kemin,4668
+144,2013,JH,Ledang,P144,69316,0.53,0.41,0.05,UMNO,Hamim Bin Samuri,30619
+144,2013,JH,Ledang,P144,69316,0.53,0.41,0.05,PKR,Hassan Bin Abdul Karim,28652
+145,2018,JH,Bakri,P145,73883,0.44,0.53,0.02,DAP,Yeo Bee Yin,38718
+145,2018,JH,Bakri,P145,73883,0.44,0.53,0.02,MCA,Koh Chon Chai,15507
+145,2018,JH,Bakri,P145,73883,0.44,0.53,0.02,PAS,Zarul @ Mohamad Zahrul Bin Salleh,7575
+145,2013,JH,Bakri,P145,67202,0.44,0.53,0.02,DAP,Er Teck Hwa,31118
+145,2013,JH,Bakri,P145,67202,0.44,0.53,0.02,MCA,Lee Ching Yong,26051
+146,2018,JH,Muar,P146,50843,0.67,0.32,0.01,BERSATU,Syed Saddiq Bin Syed Abdul Rahman,22341
+146,2018,JH,Muar,P146,50843,0.67,0.32,0.01,UMNO,Razali Bin Ibrahim,15388
+146,2018,JH,Muar,P146,50843,0.67,0.32,0.01,PAS,Abdul Aziz Bin Talib,4354
+146,2013,JH,Muar,P146,48208,0.62,0.35,0.01,UMNO,Razali Bin Ibrahim,20867
+146,2013,JH,Muar,P146,48208,0.62,0.35,0.01,PKR,Nor Hizwan Bin Ahmad,19221
+147,2018,JH,Parit Sulong,P147,59609,0.79,0.21,0.01,UMNO,Noraini Binti Ahmad,24481
+147,2018,JH,Parit Sulong,P147,59609,0.79,0.21,0.01,AMANAH,Anis Afida Binti Mohd Azli,18140
+147,2018,JH,Parit Sulong,P147,59609,0.79,0.21,0.01,PAS,Ahmad Rosdi Bin Bahari,7148
+147,2013,JH,Parit Sulong,P147,56896,0.72,0.23,0.05,UMNO,Noraini Binti Ahmad,30258
+147,2013,JH,Parit Sulong,P147,56896,0.72,0.23,0.05,PAS,Khairuddin Bin A Rahim,18505
+148,2018,JH,Ayer Hitam,P148,46157,0.58,0.38,0.04,MCA,Wee Ka Siong,17076
+148,2018,JH,Ayer Hitam,P148,46157,0.58,0.38,0.04,DAP,Liew Chin Tong,16773
+148,2018,JH,Ayer Hitam,P148,46157,0.58,0.38,0.04,PAS,Mardi Bin Marwan,4975
+148,2013,JH,Ayer Hitam,P148,42913,0.56,0.38,0.04,MCA,Wee Ka Siong,22045
+148,2013,JH,Ayer Hitam,P148,42913,0.56,0.38,0.04,PAS,Hu Pang Chaw,14735
+149,2018,JH,Sri Gading,P149,52119,0.65,0.33,0.01,BERSATU,Sharuddin Bin Md Salleh,21511
+149,2018,JH,Sri Gading,P149,52119,0.65,0.33,0.01,UMNO,Ab Aziz Bin Kaprawi,18223
+149,2018,JH,Sri Gading,P149,52119,0.65,0.33,0.01,PAS,M Ash'ari Bin Sidon,4548
+149,2013,JH,Sri Gading,P149,44816,0.63,0.34,0.01,UMNO,Ab Aziz Bin Kaprawi,22453
+149,2013,JH,Sri Gading,P149,44816,0.63,0.34,0.01,PKR,Mohd Khuzzan Bin Abu Bakar,16692
+150,2018,JH,Batu Pahat,P150,98543,0.55,0.44,0.01,PKR,Mohd Rashid Bin Hasnon,45929
+150,2018,JH,Batu Pahat,P150,98543,0.55,0.44,0.01,UMNO,Haliza Binti Abdullah,28035
+150,2018,JH,Batu Pahat,P150,98543,0.55,0.44,0.01,PAS,Mahfodz Bin Mohamed,8173
+150,2013,JH,Batu Pahat,P150,88272,0.52,0.46,0.01,PKR,Mohd Idris Bin Jusi,38667
+150,2013,JH,Batu Pahat,P150,88272,0.52,0.46,0.01,UMNO,Mohd Puad Bin Zarkashi,36935
+151,2018,JH,Simpang Renggam,P151,43998,0.6,0.31,0.09,BERSATU,Maszlee Bin Malik,18157
+151,2018,JH,Simpang Renggam,P151,43998,0.6,0.31,0.09,GERAKAN,Liang Teck Meng,14682
+151,2018,JH,Simpang Renggam,P151,43998,0.6,0.31,0.09,PAS,Mohd Jubri Bin Selamat,2983
+151,2013,JH,Simpang Renggam,P151,40143,0.57,0.33,0.09,GERAKAN,Liang Teck Meng,19754
+151,2013,JH,Simpang Renggam,P151,40143,0.57,0.33,0.09,PAS,Suhaizan Bin Kaiat,14048
+152,2018,JH,Kluang,P152,96915,0.42,0.48,0.09,DAP,Wong Shu Qi,47671
+152,2018,JH,Kluang,P152,96915,0.42,0.48,0.09,MCA,Gan Ping Shou @ Gan Ping Sieu,24618
+152,2018,JH,Kluang,P152,96915,0.42,0.48,0.09,PAS,Muhammad Hasbullah Bin Md Najib,8242
+152,2013,JH,Kluang,P152,86732,0.39,0.49,0.1,DAP,Liew Chin Tong,40574
+152,2013,JH,Kluang,P152,86732,0.39,0.49,0.1,MCA,Hou Kok Chung,33215
+153,2018,JH,Sembrong,P153,44137,0.61,0.29,0.09,UMNO,Hishammuddin Bin Hussein Onn,21353
+153,2018,JH,Sembrong,P153,44137,0.61,0.29,0.09,PKR,Onn Bin Abu Bakar,14691
+153,2013,JH,Sembrong,P153,41588,0.58,0.31,0.09,UMNO,Hishammuddin Bin Datuk Hussein,22841
+153,2013,JH,Sembrong,P153,41588,0.58,0.31,0.09,PKR,Onn Bin Abu Bakar,12210
+154,2018,JH,Mersing,P154,48176,0.82,0.14,0.01,UMNO,Abd Latiff Bin Ahmad,19806
+154,2018,JH,Mersing,P154,48176,0.82,0.14,0.01,BERSATU,Md Nasir Bin Hashim,11347
+154,2018,JH,Mersing,P154,48176,0.82,0.14,0.01,PAS,A Rahman Bin A Hamid,6215
+154,2013,JH,Mersing,P154,44497,0.79,0.16,0.01,UMNO,Abd Latiff Bin Ahmad,26184
+154,2013,JH,Mersing,P154,44497,0.79,0.16,0.01,PAS,Roslan Bin Nikmat,10437
+155,2018,JH,Tenggara,P155,44749,0.75,0.16,0.07,UMNO,Adham Bin Baba,20142
+155,2018,JH,Tenggara,P155,44749,0.75,0.16,0.07,BERSATU,Norjepri Bin Mohamed Jelani,14209
+155,2018,JH,Tenggara,P155,44749,0.75,0.16,0.07,PAS,Yuhanita Binti Yunan,2683
+155,2013,JH,Tenggara,P155,39694,0.72,0.18,0.07,UMNO,Halimah Binti Mohd Sadique,25698
+155,2013,JH,Tenggara,P155,39694,0.72,0.18,0.07,PAS,Muhamad Said Bin Jonit,8502
+156,2018,JH,Kota Tinggi,P156,46677,0.89,0.09,0.02,UMNO,Halimah Binti Mohd Sadique,26407
+156,2018,JH,Kota Tinggi,P156,46677,0.89,0.09,0.02,BERSATU,Azlinda Binti Abdul Latif,11786
+156,2013,JH,Kota Tinggi,P156,41894,0.86,0.11,0.02,UMNO,Noor Ehsanuddin Bin Mohd Harun Narrashid,30373
+156,2013,JH,Kota Tinggi,P156,41894,0.86,0.11,0.02,PAS,Onn Bin Jaafar,5799
+157,2018,JH,Pengerang,P157,40479,0.9,0.09,0.01,UMNO,Azalina Binti Dato Othman Said,21829
+157,2018,JH,Pengerang,P157,40479,0.9,0.09,0.01,BERSATU,Norliza Binti Ngadiran,10412
+157,2013,JH,Pengerang,P157,37999,0.88,0.1,0.01,UMNO,Azalina Binti Othman,26992
+157,2013,JH,Pengerang,P157,37999,0.88,0.1,0.01,PKR,Tengku Intan Binti Tengku Abdul Hamid,4484
+157,2013,JH,Pengerang,P157,37999,0.88,0.1,0.01,IND,Mohd Azaman Bin Johari,795
+158,2018,JH,Tebrau,P158,123033,0.48,0.39,0.12,PKR,Choong Shiau Yoon,64535
+158,2018,JH,Tebrau,P158,123033,0.48,0.39,0.12,MCA,Hou Kok Chung,27310
+158,2018,JH,Tebrau,P158,123033,0.48,0.39,0.12,PAS,Abdullah Bin Husin,12098
+158,2013,JH,Tebrau,P158,90482,0.47,0.38,0.13,MCA,Khoo Soo Seang,39985
+158,2013,JH,Tebrau,P158,90482,0.47,0.38,0.13,PKR,Choong Shiau Yoon,38218
+159,2018,JH,Pasir Gudang,P159,124172,0.5,0.37,0.1,PKR,Hassan Bin Abdul Karim,61615
+159,2018,JH,Pasir Gudang,P159,124172,0.5,0.37,0.1,UMNO,Mohamed Khaled Bin Nordin,36889
+159,2018,JH,Pasir Gudang,P159,124172,0.5,0.37,0.1,PAS,Ab Aziz Bin Abdullah,6278
+159,2018,JH,Pasir Gudang,P159,124172,0.5,0.37,0.1,BEBAS,Sey Jock @ Chee Jock,227
+159,2013,JH,Pasir Gudang,P159,101041,0.47,0.38,0.11,UMNO,Normala Binti Abdul Samad,43834
+159,2013,JH,Pasir Gudang,P159,101041,0.47,0.38,0.11,PKR,Ahmad Faidhi Bin Saidi,42899
+160,2018,JH,Johor Bahru,P160,101409,0.53,0.41,0.05,PKR,Akmal Nasrullah Bin Mohd Nasir,50052
+160,2018,JH,Johor Bahru,P160,101409,0.53,0.41,0.05,UMNO,Shahrir Bin Abd Samad,30270
+160,2013,JH,Johor Bahru,P160,96321,0.51,0.43,0.05,UMNO,Sharil @ Shahrir Bin Ab Samad,44285
+160,2013,JH,Johor Bahru,P160,96321,0.51,0.43,0.05,PKR,Md Hashim Bin Hussein,34151
+161,2018,JH,Pulai,P161,106268,0.49,0.39,0.1,AMANAH,Salahuddin Bin Ayub,55447
+161,2018,JH,Pulai,P161,106268,0.49,0.39,0.1,UMNO,Nur Jazlan Bin Mohamed,26523
+161,2018,JH,Pulai,P161,106268,0.49,0.39,0.1,PAS,Mohd Mazri Bin Yahya,4332
+161,2018,JH,Pulai,P161,106268,0.49,0.39,0.1,BEBAS,Yap Keng Tak,591
+161,2013,JH,Pulai,P161,100490,0.47,0.41,0.1,UMNO,Nur Jazlan Bin Mohamed,43751
+161,2013,JH,Pulai,P161,100490,0.47,0.41,0.1,PAS,Salahuddin Bin Ayub,40525
+162,2018,JH,Iskandar Puteri,P162,138299,0.37,0.5,0.12,DAP,Lim Kit Siang,80726
+162,2018,JH,Iskandar Puteri,P162,138299,0.37,0.5,0.12,MCA,Teoh Sew Hock,35862
+162,2013,JH,Iskandar Puteri,P162,106726,0.34,0.52,0.12,DAP,Lim Kit Siang,54284
+162,2013,JH,Iskandar Puteri,P162,106726,0.34,0.52,0.12,UMNO,A Ghani Bin Othman,39522
+163,2018,JH,Kulai,P163,99147,0.35,0.54,0.1,DAP,Teo Nie Ching,55312
+163,2018,JH,Kulai,P163,99147,0.35,0.54,0.1,MCA,Tang Nai Soon,22564
+163,2018,JH,Kulai,P163,99147,0.35,0.54,0.1,PAS,Juwahir Bin Amin,6667
+163,2013,JH,Kulai,P163,83991,0.33,0.56,0.1,DAP,Teo Nie Ching,43338
+163,2013,JH,Kulai,P163,83991,0.33,0.56,0.1,MCA,Tay Chin Hein,29888
+163,2013,JH,Kulai,P163,83991,0.33,0.56,0.1,IND,Surendiran A/L Kuppayah,238
+164,2018,JH,Pontian,P164,55570,0.69,0.3,0.01,UMNO,Ahmad Bin Haji Maslan,21132
+164,2018,JH,Pontian,P164,55570,0.69,0.3,0.01,BERSATU,Karmaine Bin Sardini,20299
+164,2018,JH,Pontian,P164,55570,0.69,0.3,0.01,PAS,Baharom Bin Mohamad,4295
+164,2013,JH,Pontian,P164,49633,0.69,0.28,0.01,UMNO,Ahmad Bin Maslan,27804
+164,2013,JH,Pontian,P164,49633,0.69,0.28,0.01,PKR,Haniff @ Ghazali Bin Hosman,14077
+165,2018,JH,Tanjung Piai,P165,53528,0.57,0.42,0.01,BERSATU,Md Farid Bin Md Rafik,21255
+165,2018,JH,Tanjung Piai,P165,53528,0.57,0.42,0.01,MCA,Wee Jee Seng,20731
+165,2018,JH,Tanjung Piai,P165,53528,0.57,0.42,0.01,PAS,Nordin Bin Othman,2962
+165,2013,JH,Tanjung Piai,P165,51875,0.51,0.47,0.01,MCA,Wee Jeck Seng,25038
+165,2013,JH,Tanjung Piai,P165,51875,0.51,0.47,0.01,DAP,Mahdzir Bin Ibrahim,19581
+166,2018,SB,Labuan,P166,28356,NA,NA,NA,UMNO,Rozman Bin Isli,10164
+166,2018,SB,Labuan,P166,28356,NA,NA,NA,WARISAN,Noor Halim Binzaini,8714
+166,2018,SB,Labuan,P166,28356,NA,NA,NA,PAS,Ahmad Junid Bin Mohd Aling,1555
+166,2018,SB,Labuan,P166,28356,NA,NA,NA,HARAPAN RAKYAT,Siti Zaleha Binti Sw Ibrahim,925
+166,2013,SB,Labuan,P166,24474,NA,NA,NA,UMNO,Rozman Bin Isli,12694
+166,2013,SB,Labuan,P166,24474,NA,NA,NA,PKR,Tan Sri Ibrahim Bin Menudin,6069
+166,2013,SB,Labuan,P166,24474,NA,NA,NA,PAS,Hadnan Bin Mohamad,386
+167,2018,SB,Kudat,P167,52251,NA,NA,NA,UMNO,Abdul Rahim Bin Bakri,18503
+167,2018,SB,Kudat,P167,52251,NA,NA,NA,WARISAN,Sh Azman Bin Sh Along,17144
+167,2018,SB,Kudat,P167,52251,NA,NA,NA,PPRS,Mohd Ashraf Chin Abdullah,1432
+167,2013,SB,Kudat,P167,47249,NA,NA,NA,UMNO,Datuk Abd Rahim Bin Bakri,21883
+167,2013,SB,Kudat,P167,47249,NA,NA,NA,PKR,Rahimah Binti Majid,9507
+167,2013,SB,Kudat,P167,47249,NA,NA,NA,STAR,Jutirim Bin Galibai Galabi,3083
+167,2013,SB,Kudat,P167,47249,NA,NA,NA,SAPP,Mojurip Bin Diyun,963
+168,2018,SB,Kota Marudu,P168,47007,NA,NA,NA,PBS,Johnity @ Maximus Bin Ongkili,13033
+168,2018,SB,Kota Marudu,P168,47007,NA,NA,NA,HARAPAN RAKYAT,Maijol Bin Mahap,11259
+168,2018,SB,Kota Marudu,P168,47007,NA,NA,NA,WARISAN,Barlus Bin Mangabis,7113
+168,2018,SB,Kota Marudu,P168,47007,NA,NA,NA,PCS,Paul Bin Porodong,2501
+168,2013,SB,Kota Marudu,P168,42197,NA,NA,NA,PBS,Johnity @ Maximus Bin Ongkili,15168
+168,2013,SB,Kota Marudu,P168,42197,NA,NA,NA,PKR,Maijol Bin Mahap,14326
+168,2013,SB,Kota Marudu,P168,42197,NA,NA,NA,STAR,Majamis Bin Timbong,2228
+168,2013,SB,Kota Marudu,P168,42197,NA,NA,NA,SAPP,Yuntau Bin Kolod @ Kuntau Bin Kolod,444
+169,2018,SB,Kota Belud,P169,57919,NA,NA,NA,WARISAN,Isnaraissah Munirah Bt Majilis @ Fakharudy,23429
+169,2018,SB,Kota Belud,P169,57919,NA,NA,NA,UMNO,Md Salleh Md Said,19167
+169,2018,SB,Kota Belud,P169,57919,NA,NA,NA,HARAPAN RAKYAT,[EmailåÊProtected] Bin Mion,2092
+169,2018,SB,Kota Belud,P169,57919,NA,NA,NA,PAS,Laiman Bin Ikin @ Ag Laiman Bkakimin,1410
+169,2013,SB,Kota Belud,P169,51467,NA,NA,NA,UMNO,Dato' Abd Rahman Bin Dahlan,21768
+169,2013,SB,Kota Belud,P169,51467,NA,NA,NA,PKR,Isnaraissah Munirah Bt Majilis @ Fakharudy,16673
+169,2013,SB,Kota Belud,P169,51467,NA,NA,NA,STAR,Jalumin Bin Bayogoh,2709
+169,2013,SB,Kota Belud,P169,51467,NA,NA,NA,IND,Lamsil Bin Amidsor,979
+169,2013,SB,Kota Belud,P169,51467,NA,NA,NA,IND,Kanul Bin Gindol,185
+170,2018,SB,Tuaran,P170,54400,NA,NA,NA,UPKO,Wilfred Madius Tangau,22494
+170,2018,SB,Tuaran,P170,54400,NA,NA,NA,PKR,Chrinadia Sinam,14870
+170,2018,SB,Tuaran,P170,54400,NA,NA,NA,PCS,Kalakau @ Kalakan Bin Untol @ Entol,2611
+170,2018,SB,Tuaran,P170,54400,NA,NA,NA,HARAPAN RAKYAT,Syra Peter @ P Gom,2311
+170,2018,SB,Tuaran,P170,54400,NA,NA,NA,PAS,Paumin @ Mohd Aminuddin Bin Aling,1357
+170,2013,SB,Tuaran,P170,48276,NA,NA,NA,UPKO,Madius Bin Tangau,20685
+170,2013,SB,Tuaran,P170,48276,NA,NA,NA,PKR,Mojilip Bin Bumburing @ Wilfred,15495
+170,2013,SB,Tuaran,P170,48276,NA,NA,NA,IND,Erveana Ansari Ali,2264
+170,2013,SB,Tuaran,P170,48276,NA,NA,NA,STAR,Samin @ Jasmin Bin Dulin,1509
+171,2018,SB,Sepanggar,P171,62415,NA,NA,NA,WARISAN,Mohd Azis Bin Jamman,28420
+171,2018,SB,Sepanggar,P171,62415,NA,NA,NA,UMNO,Abd Rahman Dahlan,15436
+171,2018,SB,Sepanggar,P171,62415,NA,NA,NA,SAPP,Jeffrey Kumin,2958
+171,2018,SB,Sepanggar,P171,62415,NA,NA,NA,PCS,Robert Sopining,971
+171,2013,SB,Sepanggar,P171,53374,NA,NA,NA,UMNO,Datuk Jumat Bin Idris,22845
+171,2013,SB,Sepanggar,P171,53374,NA,NA,NA,DAP,Jeffrey Kumin @ John,13403
+171,2013,SB,Sepanggar,P171,53374,NA,NA,NA,SAPP,Chin Hon Kiong,4070
+171,2013,SB,Sepanggar,P171,53374,NA,NA,NA,STAR,Daniel John Jambun,1931
+172,2018,SB,Kota Kinabalu,P172,56220,NA,NA,NA,DAP,Chan Foong Hin,31632
+172,2018,SB,Kota Kinabalu,P172,56220,NA,NA,NA,PBS,Joseph Lee,7546
+172,2018,SB,Kota Kinabalu,P172,56220,NA,NA,NA,SAPP,Yong Teck Lee,3132
+172,2013,SB,Kota Kinabalu,P172,50516,NA,NA,NA,DAP,Wong Sze Phin @ Jimmy,28516
+172,2013,SB,Kota Kinabalu,P172,50516,NA,NA,NA,PBS,Chin Tek Ming,9557
+172,2013,SB,Kota Kinabalu,P172,50516,NA,NA,NA,STAR,Liew Hock Leong @ Michael,909
+173,2018,SB,Putatan,P173,41312,NA,NA,NA,PKR,Awang Husaini Bin Sahari,14106
+173,2018,SB,Putatan,P173,41312,NA,NA,NA,UPKO,Makin @ Marcus Majigoh,11767
+173,2018,SB,Putatan,P173,41312,NA,NA,NA,PAS,Zulzaim Hilmee Abidin,2434
+173,2018,SB,Putatan,P173,41312,NA,NA,NA,HARAPAN RAKYAT,Jivol @ Edmund Bin Doudilim,1755
+173,2018,SB,Putatan,P173,41312,NA,NA,NA,ANAK NEGERI,Mil Kusin Bin Abdillah,728
+173,2013,SB,Putatan,P173,37490,NA,NA,NA,UPKO,Makin @ Marcus Mojigoh,17465
+173,2013,SB,Putatan,P173,37490,NA,NA,NA,DAP,Lee Han Kyun @ Joseph Lee,7958
+173,2013,SB,Putatan,P173,37490,NA,NA,NA,STAR,Awang Ahmad Sah,2604
+173,2013,SB,Putatan,P173,37490,NA,NA,NA,SAPP,Duli @ Dullie Bin Mari @ Marie,1068
+174,2018,SB,Penampang,P174,53131,NA,NA,NA,WARISAN,Ignatius Dorell Leiking,32470
+174,2018,SB,Penampang,P174,53131,NA,NA,NA,UPKO,Caesar Mandela Malakun,8997
+174,2018,SB,Penampang,P174,53131,NA,NA,NA,SOLIDARITI,Cleftus Stephen Spine,1196
+174,2018,SB,Penampang,P174,53131,NA,NA,NA,ANAK NEGERI,Edwin @ Jack Bosi,445
+174,2013,SB,Penampang,P174,44323,NA,NA,NA,PKR,Ignatius Dorell Leiking,22598
+174,2013,SB,Penampang,P174,44323,NA,NA,NA,UPKO,Bernard Giluk Dompok,12382
+174,2013,SB,Penampang,P174,44323,NA,NA,NA,STAR,Melania @ Melanie Annol,1119
+175,2018,SB,Papar,P175,43586,NA,NA,NA,WARISAN,Ahmad Bin Hassan,17394
+175,2018,SB,Papar,P175,43586,NA,NA,NA,UMNO,Rosnah Abd Rashid Shirlin,17069
+175,2018,SB,Papar,P175,43586,NA,NA,NA,SOLIDARITI,Jamil William Core,892
+175,2018,SB,Papar,P175,43586,NA,NA,NA,PCS,Elbert Bin Sikuil,481
+175,2013,SB,Papar,P175,38771,NA,NA,NA,UMNO,Datuk Rosnah Binti Hj Abd Rashid Shirlin,21196
+175,2013,SB,Papar,P175,38771,NA,NA,NA,PKR,Mohammad Yahya @ Yahya Bin Lampong,10661
+175,2013,SB,Papar,P175,38771,NA,NA,NA,STAR,Balon Bin Mujim,838
+176,2018,SB,Kimanis,P176,29618,NA,NA,NA,UMNO,Anifah Aman,11942
+176,2018,SB,Kimanis,P176,29618,NA,NA,NA,WARISAN,Karim Bin Bujang,11786
+176,2018,SB,Kimanis,P176,29618,NA,NA,NA,HARAPAN RAKYAT,Jaafar Bin Ismail,1300
+176,2013,SB,Kimanis,P176,26628,NA,NA,NA,UMNO,Datuk Anifah Bin Aman @ Haniff Amman,13754
+176,2013,SB,Kimanis,P176,26628,NA,NA,NA,PKR,Jaafar Bin Ismail,8031
+176,2013,SB,Kimanis,P176,26628,NA,NA,NA,SAPP,Jamil Bin William Core,650
+176,2013,SB,Kimanis,P176,26628,NA,NA,NA,STAR,Lusin Bin Balangon,240
+177,2018,SB,Beaufort,P177,33342,NA,NA,NA,UMNO,Azizah Binti Mohd Dun,11354
+177,2018,SB,Beaufort,P177,33342,NA,NA,NA,HARAPAN RAKYAT,Lajim Bin Ukin,8023
+177,2018,SB,Beaufort,P177,33342,NA,NA,NA,PKR,Johan @ Christopher Bin Ot Ghani,7835
+177,2013,SB,Beaufort,P177,30097,NA,NA,NA,UMNO,Datuk Azizah Binti Mohd Dun,12827
+177,2013,SB,Beaufort,P177,30097,NA,NA,NA,PKR,Lajim Bin Ukin,12154
+177,2013,SB,Beaufort,P177,30097,NA,NA,NA,STAR,Guan Dee Bin Koh Hoi,409
+178,2018,SB,Sipitang,P178,31882,NA,NA,NA,UMNO,Yamani Hafez Musa,12038
+178,2018,SB,Sipitang,P178,31882,NA,NA,NA,WARISAN,Noor Hayaty Binti Mustapha,11186
+178,2018,SB,Sipitang,P178,31882,NA,NA,NA,HARAPAN RAKYAT,Dayang Aezzy Binti Liman,1547
+178,2013,SB,Sipitang,P178,29177,NA,NA,NA,UMNO,Datuk Sapawi Bin Amat Wasali @ Ahmad,16377
+178,2013,SB,Sipitang,P178,29177,NA,NA,NA,PKR,Ramle Bin Dua @ Ramli Dua Lee,6908
+178,2013,SB,Sipitang,P178,29177,NA,NA,NA,SAPP,Kamis Bin Daming,505
+179,2018,SB,Ranau,P179,43706,NA,NA,NA,PKR,Jonathan Bin Yasin,14880
+179,2018,SB,Ranau,P179,43706,NA,NA,NA,UPKO,Ewon Binebin,13804
+179,2018,SB,Ranau,P179,43706,NA,NA,NA,SOLIDARITI,Soudi @ Sami Andang,3148
+179,2018,SB,Ranau,P179,43706,NA,NA,NA,PCS,Andau Bin Yasun @ Bruno,1110
+179,2013,SB,Ranau,P179,39053,NA,NA,NA,UPKO,Ewon Ebin,15434
+179,2013,SB,Ranau,P179,39053,NA,NA,NA,PKR,Jonathan Bin Yasin,11823
+179,2013,SB,Ranau,P179,39053,NA,NA,NA,STAR,Ulianah Bte Situn @ Widya Julia,2559
+179,2013,SB,Ranau,P179,39053,NA,NA,NA,IND,Yazid Bin Sahjinan,914
+180,2018,SB,Keningau,P180,51177,NA,NA,NA,STAR,Gapari Bin Katingan @ Geoffrey Kitingan,13286
+180,2018,SB,Keningau,P180,51177,NA,NA,NA,WARISAN,Jikulin Nointin @ Anastasius,13241
+180,2018,SB,Keningau,P180,51177,NA,NA,NA,PBS,Daniel Bin Kinsik,12742
+180,2018,SB,Keningau,P180,51177,NA,NA,NA,PCS,Jius Bin Awang,433
+180,2018,SB,Keningau,P180,51177,NA,NA,NA,BEBAS,Maimin Bin Rijan,248
+180,2018,SB,Keningau,P180,51177,NA,NA,NA,BEBAS,Justin Bin Guka,199
+180,2013,SB,Keningau,P180,43691,NA,NA,NA,PBS,Joseph Pairin Kitingan,15818
+180,2013,SB,Keningau,P180,43691,NA,NA,NA,STAR,Gapari Bin Katingan @ Geoffrey Kitingan,11900
+180,2013,SB,Keningau,P180,43691,NA,NA,NA,PKR,Stephen Sandor,7825
+181,2018,SB,Tenom,P181,29182,NA,NA,NA,DAP,Noorita Sual,11363
+181,2018,SB,Tenom,P181,29182,NA,NA,NA,UMNO,Rubin Balang,10230
+181,2018,SB,Tenom,P181,29182,NA,NA,NA,HARAPAN RAKYAT,Laimoi @ Yuslinah Binti Laikim,645
+181,2013,SB,Tenom,P181,25304,NA,NA,NA,UMNO,Datuk Raime Bin Unggi,9771
+181,2013,SB,Tenom,P181,25304,NA,NA,NA,PKR,Masdin Bin Tumas,5885
+181,2013,SB,Tenom,P181,25304,NA,NA,NA,STAR,Hasmin @ Azroy Bin Abdullah,2449
+181,2013,SB,Tenom,P181,25304,NA,NA,NA,SAPP,Jaineh Bin Juaya @ Jimmy Jawatah,1766
+181,2013,SB,Tenom,P181,25304,NA,NA,NA,KITA,Mutang @ Sylvester Bin Dawat,423
+182,2018,SB,Pensiangan,P182,31377,NA,NA,NA,PBRS,Arthur Joseph Kurup,11783
+182,2018,SB,Pensiangan,P182,31377,NA,NA,NA,PKR,Raymond Ahuar,9469
+182,2018,SB,Pensiangan,P182,31377,NA,NA,NA,SOLIDARITI,Joh Bin Jimmy @ Richard Joe Jimmy,2839
+182,2018,SB,Pensiangan,P182,31377,NA,NA,NA,PCS,Maidin Bin Atak @ Maidin Haji Osman,212
+182,2018,SB,Pensiangan,P182,31377,NA,NA,NA,BEBAS,Engah Bin Sintan @ Dahlan Bin Abdullah,65
+182,2013,SB,Pensiangan,P182,26194,NA,NA,NA,PBRS,Joseph Kurup,9467
+182,2013,SB,Pensiangan,P182,26194,NA,NA,NA,PKR,Richard Sakian Bin Gunting,7723
+182,2013,SB,Pensiangan,P182,26194,NA,NA,NA,STAR,Martin Tomy @ Tommy,3554
+182,2013,SB,Pensiangan,P182,26194,NA,NA,NA,IND,Fatimah Binti Agitor @ Mohd Daud,152
+183,2018,SB,Beluran,P183,28509,NA,NA,NA,UMNO,Ronald Kiandee,13007
+183,2018,SB,Beluran,P183,28509,NA,NA,NA,WARISAN,Japar Bin Zairun,5892
+183,2018,SB,Beluran,P183,28509,NA,NA,NA,HARAPAN RAKYAT,Sipin Bin Kadandi,996
+183,2018,SB,Beluran,P183,28509,NA,NA,NA,PCS,Toidy Luit,284
+183,2018,SB,Beluran,P183,28509,NA,NA,NA,PERPADUAN,Lem @ Salim Bin Matin,273
+183,2018,SB,Beluran,P183,28509,NA,NA,NA,BEBAS,Salimah Binti Oyong,246
+183,2013,SB,Beluran,P183,24688,NA,NA,NA,UMNO,Ronald Kiandee,13174
+183,2013,SB,Beluran,P183,24688,NA,NA,NA,PKR,James Bin Miki,3186
+183,2013,SB,Beluran,P183,24688,NA,NA,NA,STAR,Raimon Bin Lanjat,1460
+183,2013,SB,Beluran,P183,24688,NA,NA,NA,IND,Datu Kamaruddin Bin Datu Mustapha,542
+184,2018,SB,Libaran,P184,47914,NA,NA,NA,UMNO,Zakaria Mohd Edris @ Tubau,17799
+184,2018,SB,Libaran,P184,47914,NA,NA,NA,WARISAN,Irwanshah Bin Mustapa,17121
+184,2018,SB,Libaran,P184,47914,NA,NA,NA,HARAPAN RAKYAT,Alfian Bin Mansyur,1223
+184,2013,SB,Libaran,P184,39772,NA,NA,NA,UMNO,Datuk Juslie Bin Ajirol,19584
+184,2013,SB,Libaran,P184,39772,NA,NA,NA,PKR,Mohd Serman Bin Hassnar,7998
+184,2013,SB,Libaran,P184,39772,NA,NA,NA,IND,Sahar Bin Saka,3219
+184,2013,SB,Libaran,P184,39772,NA,NA,NA,STAR,Rosnah Binti Unsari,502
+185,2018,SB,Batu Sapi,P185,32574,NA,NA,NA,WARISAN,Liew Vui Keong,12976
+185,2018,SB,Batu Sapi,P185,32574,NA,NA,NA,PBS,Tsen Thau Lin,8357
+185,2018,SB,Batu Sapi,P185,32574,NA,NA,NA,AMANAH,Hamza Bin A Abdullah @ Hamzah,980
+185,2018,SB,Batu Sapi,P185,32574,NA,NA,NA,PAS,Norsah Binti Bongsu,948
+185,2013,SB,Batu Sapi,P185,30199,NA,NA,NA,PBS,Tsen Thau Lin,13085
+185,2013,SB,Batu Sapi,P185,30199,NA,NA,NA,PAS,Hamza Bin A Abdullah @ Hamzah,9287
+185,2013,SB,Batu Sapi,P185,30199,NA,NA,NA,STAR,Saiful Bahari Rashada Bin Ahmad,410
+186,2018,SB,Sandakan,P186,39777,NA,NA,NA,DAP,Wong Tien Fatt @ Wong Nyuk Foh,19094
+186,2018,SB,Sandakan,P186,39777,NA,NA,NA,LDP,Lim Ming Ho,8996
+186,2013,SB,Sandakan,P186,37058,NA,NA,NA,DAP,Wong Tien Fatt @ Wong Nyuk Foh,14226
+186,2013,SB,Sandakan,P186,37058,NA,NA,NA,LDP,Liew Vui Keong,13138
+187,2018,SB,Kinabatangan,P187,28730,NA,NA,NA,UMNO,Dato ' Sri Moktar Bin Radin,14465
+187,2018,SB,Kinabatangan,P187,28730,NA,NA,NA,WARISAN,M A Ghazali Bin Abdul Ghani,4987
+187,2018,SB,Kinabatangan,P187,28730,NA,NA,NA,HARAPAN RAKYAT,Mustapa Bin Datu Tambuyong,2066
+187,2013,SB,Kinabatangan,P187,24748,NA,NA,NA,UMNO,Datuk Moktar Bin Radin,13377
+187,2013,SB,Kinabatangan,P187,24748,NA,NA,NA,PKR,Abdullah Bin Abdul Sani,3646
+187,2013,SB,Kinabatangan,P187,24748,NA,NA,NA,STAR,Yambuya Bin Parantis @ Cyril Pongod,1153
+187,2013,SB,Kinabatangan,P187,24748,NA,NA,NA,IND,Haji Ali Latip Bin Haji Taha,1130
+188,2018,SB,Silam,P188,60942,NA,NA,NA,WARISAN,Mohamaddin Bin Ketapi,23352
+188,2018,SB,Silam,P188,60942,NA,NA,NA,UMNO,Datu Nasrun Datu Mansur,16951
+188,2018,SB,Silam,P188,60942,NA,NA,NA,PAS,Ramli Pataruddin,1431
+188,2018,SB,Silam,P188,60942,NA,NA,NA,HARAPAN RAKYAT,Siti Shazianti Binti Ajak,1306
+188,2013,SB,Silam,P188,51662,NA,NA,NA,UMNO,Datu Nasrun Bin Datu Mansur,23058
+188,2013,SB,Silam,P188,51662,NA,NA,NA,PKR,Badrulamin Bin Bahron,9671
+188,2013,SB,Silam,P188,51662,NA,NA,NA,IND,Dumi Bin Pg Masdal,4959
+188,2013,SB,Silam,P188,51662,NA,NA,NA,STAR,Apas @ Nawawie Bin Saking,841
+189,2018,SB,Semporna,P189,48248,NA,NA,NA,WARISAN,Mohd Shafie Bin Apdal,26809
+189,2018,SB,Semporna,P189,48248,NA,NA,NA,UMNO,Datuk Ramlee Bin Marahaban,6135
+189,2018,SB,Semporna,P189,48248,NA,NA,NA,PAS,Abdul Nasir Ab Raup,384
+189,2018,SB,Semporna,P189,48248,NA,NA,NA,HARAPAN RAKYAT,Asmara Bin Asmad,98
+189,2013,SB,Semporna,P189,41549,NA,NA,NA,UMNO,Datuk Seri Mohd Shafie Bin Apdal,25559
+189,2013,SB,Semporna,P189,41549,NA,NA,NA,PKR,Zamree @ Mohd Suffian B Abdul Habi,4654
+189,2013,SB,Semporna,P189,41549,NA,NA,NA,IND,Datu Badaruddin Bin Tun Datu Hj Mustapha,325
+190,2018,SB,Tawau,P190,59919,NA,NA,NA,PKR,Liew Chin Jin,21400
+190,2018,SB,Tawau,P190,59919,NA,NA,NA,PBS,Yap Kain Ching @ Mary Yap Ken Jin,16673
+190,2018,SB,Tawau,P190,59919,NA,NA,NA,PAS,Mohamad Husain,2518
+190,2018,SB,Tawau,P190,59919,NA,NA,NA,HARAPAN RAKYAT,Alizaman Bin Jijurahman,2162
+190,2013,SB,Tawau,P190,51538,NA,NA,NA,PBS,Yap Kain Ching @ Mary Yap Ken Jin,21331
+190,2013,SB,Tawau,P190,51538,NA,NA,NA,PKR,Kong Hong Ming @ Kong Fo Min,16352
+190,2013,SB,Tawau,P190,51538,NA,NA,NA,SAPP,Chua Soon Bui,633
+190,2013,SB,Tawau,P190,51538,NA,NA,NA,IND,Ahmad Bin Awang @ Madon,553
+191,2018,SB,Kalabakan,P191,52199,NA,NA,NA,WARISAN,Ma'mun Bin Sulaiman,18486
+191,2018,SB,Kalabakan,P191,52199,NA,NA,NA,UMNO,Datuk Seri Panglima Abdul Ghapur Bin Salleh,15299
+191,2018,SB,Kalabakan,P191,52199,NA,NA,NA,PAS,Norbin Aloh,2813
+191,2018,SB,Kalabakan,P191,52199,NA,NA,NA,PPRS,Ahmad Bin Lahama,311
+191,2013,SB,Kalabakan,P191,46793,NA,NA,NA,UMNO,Abdul Ghapur Bin Salleh,23125
+191,2013,SB,Kalabakan,P191,46793,NA,NA,NA,PAS,Usman Bin Madeaming,8904
+191,2013,SB,Kalabakan,P191,46793,NA,NA,NA,IND,Mohd Bin Manuke,1313
+191,2013,SB,Kalabakan,P191,46793,NA,NA,NA,IND,Siamsir Bin Borhan,891
+191,2013,SB,Kalabakan,P191,46793,NA,NA,NA,STAR,Malvine Reyes,603
+191,2013,SB,Kalabakan,P191,46793,NA,NA,NA,IND,Freddie Japat Anak Simbol,137
+191,2013,SB,Kalabakan,P191,46793,NA,NA,NA,IND,Yahya Bin Zainal,132
+192,2018,SW,Mas Gading,P192,29617,NA,NA,NA,DAP,Mordi Anak Bimol,12771
+192,2018,SW,Mas Gading,P192,29617,NA,NA,NA,PDP,Nogeh Anak Gumbek,9747
+192,2013,SW,Mas Gading,P192,25771,NA,NA,NA,SPDP,Nogeh Anak Gumbek,8265
+192,2013,SW,Mas Gading,P192,25771,NA,NA,NA,IND,Tekhee @ Tiki Anak Lafe,6109
+192,2013,SW,Mas Gading,P192,25771,NA,NA,NA,DAP,Mordi Anak Bimol,5293
+192,2013,SW,Mas Gading,P192,25771,NA,NA,NA,STAR,Patrick Anek Uren,462
+193,2018,SW,Santubong,P193,45628,NA,NA,NA,PBB,Wan Junaidi Bin Tuanku Jaafar,26379
+193,2018,SW,Santubong,P193,45628,NA,NA,NA,AMANAH,Mohamad Fidzuan Bin Zaidi,6894
+193,2013,SW,Santubong,P193,37017,NA,NA,NA,PBB,Wan Junaidi Bin Tuanku Jaafar,24655
+193,2013,SW,Santubong,P193,37017,NA,NA,NA,PKR,Zulrusdi Bin Mohamad Hol,3719
+193,2013,SW,Santubong,P193,37017,NA,NA,NA,IND,Affendi Bin Jeman,233
+193,2013,SW,Santubong,P193,37017,NA,NA,NA,STAR,Mura Bin Kadir,206
+194,2018,SW,Petra Jaya,P194,57925,NA,NA,NA,PBB,Fadillah Bin Yusof,28306
+194,2018,SW,Petra Jaya,P194,57925,NA,NA,NA,PKR,Nor Irwan Bin Ahmat Nor,13289
+194,2018,SW,Petra Jaya,P194,57925,NA,NA,NA,PAS,Hamdan Bin Sani,1350
+194,2013,SW,Petra Jaya,P194,49750,NA,NA,NA,PBB,Fadillah Bin Yusof,29559
+194,2013,SW,Petra Jaya,P194,49750,NA,NA,NA,PKR,Ahmad Nazib Bin Johari,8116
+195,2018,SW,Bandar Kuching,P195,81856,NA,NA,NA,DAP,Kelvin Yii Lee Wuen,48548
+195,2018,SW,Bandar Kuching,P195,81856,NA,NA,NA,SUPP,Kho Teck Wan,12575
+195,2013,SW,Bandar Kuching,P195,53336,NA,NA,NA,DAP,Chong Chieng Jen,30133
+195,2013,SW,Bandar Kuching,P195,53336,NA,NA,NA,SUPP,Tan Kai,10491
+196,2018,SW,Stampin,P196,66240,NA,NA,NA,DAP,Chong Chieng Jen,33060
+196,2018,SW,Stampin,P196,66240,NA,NA,NA,SUPP,Sim Kui Hian,18839
+196,2013,SW,Stampin,P196,84732,NA,NA,NA,DAP,Julian Tan Kok Ping,41663
+196,2013,SW,Stampin,P196,84732,NA,NA,NA,SUPP,Yong Khoon Hian @ Yong Khoon Seng,22993
+196,2013,SW,Stampin,P196,84732,NA,NA,NA,STAR,Soo Lina,239
+197,2018,SW,Kota Samarahan,P197,46300,NA,NA,NA,PBB,Rubiah Binti Wang,25070
+197,2018,SW,Kota Samarahan,P197,46300,NA,NA,NA,AMANAH,Sopian Bin Julaihi,8078
+197,2018,SW,Kota Samarahan,P197,46300,NA,NA,NA,PAS,Zulkipli Bin Ramzi,2719
+197,2013,SW,Kota Samarahan,P197,38158,NA,NA,NA,PBB,Rubiah Binti Wang,24202
+197,2013,SW,Kota Samarahan,P197,38158,NA,NA,NA,PAS,Abang Ahmad Kerdee Bin Abang Masagus,6801
+198,2018,SW,Mambong,P198,46180,NA,NA,NA,PKR,Willie Anak Mongin,18865
+198,2018,SW,Mambong,P198,46180,NA,NA,NA,PBB,Genot Anak Sinel @Jeannoth Sinel,14860
+198,2018,SW,Mambong,P198,46180,NA,NA,NA,STAR,Buln Anak Patrick Ribos,795
+198,2013,SW,Mambong,P198,42344,NA,NA,NA,PBB,James Dawos Mamit,20461
+198,2013,SW,Mambong,P198,42344,NA,NA,NA,PKR,Willie Anak Mongin,10740
+198,2013,SW,Mambong,P198,42344,NA,NA,NA,STAR,Dripin Anak Sakoi,704
+199,2018,SW,Serian,P199,37629,NA,NA,NA,SUPP,Richard Riot Anak Jaem,17545
+199,2018,SW,Serian,P199,37629,NA,NA,NA,DAP,Edward Anak Andrew Luwak @ Edward Luwak,7640
+199,2018,SW,Serian,P199,37629,NA,NA,NA,BEBAS,Senior Anak William Rade,2234
+199,2013,SW,Serian,P199,33713,NA,NA,NA,SUPP,Richard Riot Anak Jaem,19494
+199,2013,SW,Serian,P199,33713,NA,NA,NA,DAP,Edward Anak Andrew Luwak,6343
+199,2013,SW,Serian,P199,33713,NA,NA,NA,STAR,Johnny Anak Aput,390
+200,2018,SW,Batang Sadong,P200,23213,NA,NA,NA,PBB,Nancy Binti Shukri,14208
+200,2018,SW,Batang Sadong,P200,23213,NA,NA,NA,AMANAH,Othman Bin Mustapha @ Mos,1880
+200,2018,SW,Batang Sadong,P200,23213,NA,NA,NA,PAS,Asan Bin Singkro,978
+200,2013,SW,Batang Sadong,P200,19839,NA,NA,NA,PBB,Nancy Binti Shukri,13277
+200,2013,SW,Batang Sadong,P200,19839,NA,NA,NA,PAS,Mohamad Bin Jolhi,2017
+201,2018,SW,Batang Lupar,P201,29811,NA,NA,NA,PBB,Rohani Binti Abdul Karim,14204
+201,2018,SW,Batang Lupar,P201,29811,NA,NA,NA,PAS,Wan Abdillah Bin Wan Ahmad,3927
+201,2018,SW,Batang Lupar,P201,29811,NA,NA,NA,AMANAH,Narudin Bin Mentali,2020
+201,2013,SW,Batang Lupar,P201,27360,NA,NA,NA,PBB,Rohani Binti Abdul Karim,15625
+201,2013,SW,Batang Lupar,P201,27360,NA,NA,NA,PKR,Abang Zulkifli Bin Abang Engkeh,4661
+202,2018,SW,Sri Aman,P202,33016,NA,NA,NA,PRS,Masir Anak Kujat,14141
+202,2018,SW,Sri Aman,P202,33016,NA,NA,NA,PKR,Norina Umoi Anak Utot,8321
+202,2018,SW,Sri Aman,P202,33016,NA,NA,NA,PBDSB,Cobbold Anak Lusoi,538
+202,2013,SW,Sri Aman,P202,29789,NA,NA,NA,PRS,Masir Anak Kujat,12168
+202,2013,SW,Sri Aman,P202,29789,NA,NA,NA,PKR,Nicholas Mujah Anak Ason,5618
+202,2013,SW,Sri Aman,P202,29789,NA,NA,NA,IND,Donald Lawan,3867
+202,2013,SW,Sri Aman,P202,29789,NA,NA,NA,SWP,Wilfred Stephen,476
+203,2018,SW,Lubok Antu,P203,20801,NA,NA,NA,BEBAS,Tambat @ Jugah Ak Muyang,5834
+203,2018,SW,Lubok Antu,P203,20801,NA,NA,NA,PRS,Robert Pasang Anak Alam,4775
+203,2018,SW,Lubok Antu,P203,20801,NA,NA,NA,PKR,Nicholas Bawin Anak Anggat,3942
+203,2013,SW,Lubok Antu,P203,19303,NA,NA,NA,PRS,William @ Nyallau Anak Badak,8278
+203,2013,SW,Lubok Antu,P203,19303,NA,NA,NA,SWP,Larry Soon @ Larry Sng Wei Shien,4187
+203,2013,SW,Lubok Antu,P203,19303,NA,NA,NA,PKR,Nicholas Bawin Anak Anggat,2530
+204,2018,SW,Betong,P204,29145,NA,NA,NA,PBB,Robert Lawson Chuat,12517
+204,2018,SW,Betong,P204,29145,NA,NA,NA,BEBAS,Abang Ahmad Bin Abang Suni,4401
+204,2018,SW,Betong,P204,29145,NA,NA,NA,PKR,Noel Changgai Bucking,3802
+204,2013,SW,Betong,P204,26322,NA,NA,NA,PBB,Douglas Uggah Embas,15476
+204,2013,SW,Betong,P204,26322,NA,NA,NA,PKR,Cecilia Siti Una @ Sittie Endek,4589
+205,2018,SW,Saratok,P205,30517,NA,NA,NA,PKR,Ali Anak Biju,11848
+205,2018,SW,Saratok,P205,30517,NA,NA,NA,PDP,[EmailåÊProtected] Anak Mula,10859
+205,2013,SW,Saratok,P205,27562,NA,NA,NA,SPDP,William Ikom,11600
+205,2013,SW,Saratok,P205,27562,NA,NA,NA,PKR,Ali Anak Biju,9519
+205,2013,SW,Saratok,P205,27562,NA,NA,NA,IND,Rosli Bin Lek @ Abg Roselie Bin Abg Paleng,681
+206,2018,SW,Kuala Rajang,P206,21899,NA,NA,NA,PBB,Yusuf Bin Abd Wahab,11402
+206,2018,SW,Kuala Rajang,P206,21899,NA,NA,NA,AMANAH,Mohamad Fadillah Bin Sabali,2728
+206,2013,SW,Kuala Rajang,P206,19215,NA,NA,NA,PBB,Norah Binti Abd Rahman,12535
+206,2013,SW,Kuala Rajang,P206,19215,NA,NA,NA,PAS,Jurina Binti Mut,1571
+207,2018,SW,Igan,P207,19592,NA,NA,NA,PBB,Ahmad Johnie Bin Zawawi,10538
+207,2018,SW,Igan,P207,19592,NA,NA,NA,AMANAH,Andri Zulkarnaen Bin Hamden,2043
+207,2013,SW,Igan,P207,17771,NA,NA,NA,PBB,Wahab Bin Haji Dolah,11896
+207,2013,SW,Igan,P207,17771,NA,NA,NA,PAS,Ajiji Bin Fauzan,1747
+208,2018,SW,Sarikei,P208,39561,NA,NA,NA,DAP,Wong Ling Biu,16327
+208,2018,SW,Sarikei,P208,39561,NA,NA,NA,SUPP,Huang Tiong Sii,13757
+208,2018,SW,Sarikei,P208,39561,NA,NA,NA,PBK,Wong Chin King,392
+208,2013,SW,Sarikei,P208,36550,NA,NA,NA,DAP,Wong Ling Biu,14263
+208,2013,SW,Sarikei,P208,36550,NA,NA,NA,SUPP,Ding Kuong Hiing,13758
+209,2018,SW,Julau,P209,25380,NA,NA,NA,BEBAS,Larry Soon @ Larry Sng Wei Shien,10105
+209,2018,SW,Julau,P209,25380,NA,NA,NA,PRS,Joseph Salang Anak Gandum,8174
+209,2013,SW,Julau,P209,22522,NA,NA,NA,PRS,Joseph Salang Anak Gandum,9891
+209,2013,SW,Julau,P209,22522,NA,NA,NA,SWP,Wong Anak Judat,3936
+209,2013,SW,Julau,P209,22522,NA,NA,NA,PKR,Wong Hong Yu,2852
+210,2018,SW,Kanowit,P210,21022,NA,NA,NA,PRS,Ago Anak Dagang,9552
+210,2018,SW,Kanowit,P210,21022,NA,NA,NA,PKR,Satu Anak Anchom,5240
+210,2013,SW,Kanowit,P210,19433,NA,NA,NA,PRS,Ago Anak Dagang,8046
+210,2013,SW,Kanowit,P210,19433,NA,NA,NA,PKR,Thomas Laja Anak Besi,5004
+210,2013,SW,Kanowit,P210,19433,NA,NA,NA,SWP,Ellison Ludan Anak Muyan,417
+211,2018,SW,Lanang,P211,61973,NA,NA,NA,DAP,Alice Lau Kiong Yieng,29905
+211,2018,SW,Lanang,P211,61973,NA,NA,NA,SUPP,Kong Sien Chiu @ Kelvin Kong,15359
+211,2018,SW,Lanang,P211,61973,NA,NA,NA,PEACE,Priscilla Lau,628
+211,2013,SW,Lanang,P211,57143,NA,NA,NA,DAP,Alice Lau Kiong Yieng,26613
+211,2013,SW,Lanang,P211,57143,NA,NA,NA,SUPP,Tiong Thai King,17983
+212,2018,SW,Sibu,P212,74149,NA,NA,NA,DAP,Oscar Ling Chai Yew,33811
+212,2018,SW,Sibu,P212,74149,NA,NA,NA,SUPP,Wong Kee Yew @ Andrew Wong,22389
+212,2018,SW,Sibu,P212,74149,NA,NA,NA,PEACE,Tiew Yen Houng,377
+212,2018,SW,Sibu,P212,74149,NA,NA,NA,STAR,Tiong Ing Tung,176
+212,2013,SW,Sibu,P212,64601,NA,NA,NA,DAP,Oscar Ling Chai Yew,26808
+212,2013,SW,Sibu,P212,64601,NA,NA,NA,SUPP,Lau Lee Ming,23967
+212,2013,SW,Sibu,P212,64601,NA,NA,NA,IND,Narawi Bin Haron,203
+213,2018,SW,Mukah,P213,30608,NA,NA,NA,PBB,Hanifah Hajar Taib,13853
+213,2018,SW,Mukah,P213,30608,NA,NA,NA,PKR,Abdul Jalil Bin Bujang,6853
+213,2013,SW,Mukah,P213,26477,NA,NA,NA,PBB,Muhammad Leo Michael Toyad Abdullah,14983
+213,2013,SW,Mukah,P213,26477,NA,NA,NA,IND,Sylvester Ajah Subah @ Ajah Bin Subah,2219
+213,2013,SW,Mukah,P213,26477,NA,NA,NA,DAP,Hai Bin Merawin @ Bonaventure,2219
+214,2018,SW,Selangau,P214,30026,NA,NA,NA,PKR,Baru Bian,11228
+214,2018,SW,Selangau,P214,30026,NA,NA,NA,PRS,Rita Sarimah Anak Patrick Insol,10742
+214,2013,SW,Selangau,P214,25461,NA,NA,NA,PRS,Joseph Entulu Anak Belaun,12040
+214,2013,SW,Selangau,P214,25461,NA,NA,NA,SWP,Sng Chee Hua,4485
+214,2013,SW,Selangau,P214,25461,NA,NA,NA,PKR,Joshua Anak Jabing @ Joshua Jabeng,3891
+215,2018,SW,Kapit,P215,30658,NA,NA,NA,PBB,Alexander Nanta Linggi,14302
+215,2018,SW,Kapit,P215,30658,NA,NA,NA,DAP,Paren Anak Nyawi,3823
+215,2013,SW,Kapit,P215,26195,NA,NA,NA,PBB,Alexander Nanta Linggi,13446
+215,2013,SW,Kapit,P215,26195,NA,NA,NA,DAP,Ramli Anak Malaka,3715
+216,2018,SW,Hulu Rajang,P216,27520,NA,NA,NA,PRS,Ugak Anak Kumbng @ Wilson Ugak,11834
+216,2018,SW,Hulu Rajang,P216,27520,NA,NA,NA,PKR,Abun Sui Anyit,5519
+216,2013,SW,Hulu Rajang,P216,21686,NA,NA,NA,PRS,Ugak Anak Kumbong,9117
+216,2013,SW,Hulu Rajang,P216,21686,NA,NA,NA,PKR,Abun Sui Anyit,3283
+216,2013,SW,Hulu Rajang,P216,21686,NA,NA,NA,SWP,George Anak Lagong,2129
+217,2018,SW,Bintulu,P217,65049,NA,NA,NA,PDP,Tiong King Sing,27076
+217,2018,SW,Bintulu,P217,65049,NA,NA,NA,DAP,Chiew Chan Yew,20054
+217,2018,SW,Bintulu,P217,65049,NA,NA,NA,STAR,Chieng Lea Phing,328
+217,2013,SW,Bintulu,P217,59893,NA,NA,NA,SPDP,Tiong King Sing,26458
+217,2013,SW,Bintulu,P217,59893,NA,NA,NA,DAP,John Brian Anthony Anak Jeremy Guang,19025
+218,2018,SW,Sibuti,P218,31868,NA,NA,NA,PBB,Lukanisman Bin Awang Sauni,12214
+218,2018,SW,Sibuti,P218,31868,NA,NA,NA,PKR,Jemat Panjang,8538
+218,2018,SW,Sibuti,P218,31868,NA,NA,NA,PAS,Zulaihi Bin Bakar,1617
+218,2013,SW,Sibuti,P218,28351,NA,NA,NA,PBB,Ahmad Lai Bin Bujang,13348
+218,2013,SW,Sibuti,P218,28351,NA,NA,NA,PAS,Muhammad Zaid Bin Tandang,7282
+219,2018,SW,Miri,P219,80386,NA,NA,NA,PKR,Michael Teo Yu Keng,35739
+219,2018,SW,Miri,P219,80386,NA,NA,NA,SUPP,Sebastian Ting Chiew Yew,22076
+219,2013,SW,Miri,P219,71170,NA,NA,NA,PKR,Michael Teo Yu Keng,26909
+219,2013,SW,Miri,P219,71170,NA,NA,NA,SUPP,Sebastian Ting Chiew Yew,24917
+219,2013,SW,Miri,P219,71170,NA,NA,NA,STAR,Chong Kon Fatt,306
+220,2018,SW,Baram,P220,35685,NA,NA,NA,PDP,Anyi Ngau,12171
+220,2018,SW,Baram,P220,35685,NA,NA,NA,PKR,Roland Engan,10181
+220,2013,SW,Baram,P220,29385,NA,NA,NA,SPDP,Anyi Ngau,9182
+220,2013,SW,Baram,P220,29385,NA,NA,NA,PKR,Roland Engan,8988
+220,2013,SW,Baram,P220,29385,NA,NA,NA,IND,Patrick Sibat Sujang,363
+221,2018,SW,Limbang,P221,26409,NA,NA,NA,PBB,Hasbi Bin Habibollah,12589
+221,2018,SW,Limbang,P221,26409,NA,NA,NA,PKR,Ricardo Osmund Yampil Baba,4879
+221,2013,SW,Limbang,P221,24278,NA,NA,NA,PBB,Hasbi Bin Habibollah,12999
+221,2013,SW,Limbang,P221,24278,NA,NA,NA,PKR,Baru Bian,4698
+222,2018,SW,Lawas,P222,21297,NA,NA,NA,PBB,Henry Sum Agong,10037
+222,2018,SW,Lawas,P222,21297,NA,NA,NA,PKR,Danny Piri,4037
+222,2018,SW,Lawas,P222,21297,NA,NA,NA,BEBAS,Mohamad Bin Haji Brahim,176
+222,2013,SW,Lawas,P222,18845,NA,NA,NA,PBB,Henry Sum Agong,9928
+222,2013,SW,Lawas,P222,18845,NA,NA,NA,DAP,Baru Langub,3898
+222,2013,SW,Lawas,P222,18845,NA,NA,NA,STAR,Alirahman Bin Kamseh,69

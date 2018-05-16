@@ -1,0 +1,5 @@
+"0","margins$Parliament <- as.factor(margins$Parliament, levels = margins$Parliament)
+"
+"2","Error in as.factor(margins$Parliament, levels = margins$Parliament) : 
+  unused argument (levels = margins$Parliament)
+"

@@ -1,0 +1,301 @@
+---
+title: "GE14: A Statistical Snapshot"
+author: "Kevin Soo"
+date: "May 14, 2018"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 6
+    toc_float: no
+  pdf_document:
+    toc: yes
+    toc_depth: '6'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Load stuff
+library(tidyverse)
+library(cowplot)
+library(ggthemes)
+
+# Load data
+load(file = "Data/parlimenResults_stats.Rda")
+
+# Set levels
+parlimenResults$State <- factor(parlimenResults$State, levels = c("Perlis", "Kedah", "Kelantan", "Terengganu", 
+                                                                          "Pulau Pinang", "Perak", "Pahang", "Selangor", "Wilayah Persekutuan", 
+                                                                          "Negeri Sembilan", "Melaka", "Johor", "Sabah", "Sarawak"))
+```
+
+### 1 Background
+
+Malaysia held its 14^th^ General Election (GE14) on May 9, 2018. The opposition Pakatan Harapan (PH, translation: *Coalition of Hope*) won control of the federal government over Barisan Nasional (BN, translation: *National Front*). There are many reasons why this was a remarkable outcome. I don't intend to expand on these, but here are a couple worth mentioning:
+
+* The BN has ruled Malaysia since its independence in 1957. As a result, Malaysia's democracy is [flawed](https://www.malaymail.com/s/1045775/flawed-democracy-malaysia-slips-down-in-the-economist-units-ranking-behind) (e.g., through [gerrymandering](https://www.ft.com/content/ecb87f18-51d7-11e8-b3ee-41e0209208ec)).
+* The opposition coalition was led by a 93-year old [former prime minister](https://www.nytimes.com/2018/05/11/world/asia/mahathir-malaysia-democracy-strongmen.html), who exited the ruling party in 2016.
+
+The present write-up provides a statistical overview of the results from GE14. To do this, I scraped data from Malaysiakini's [Undi.info](https://undi.info/) portal of all parliament-level results from both 2018 and 2013 (the 13^th^ General Election).
+
+### 2 Pakatan's (impending) big win
+
+#### 2.1 GE14 performance
+
+The graph on the left displays the total number of parliamentary seats won by BN, PH, and PAS. PH won 121 seats (8 of those belong to PH's allies who are not formally in the coalition). A coalition needs 112 out of the 222 parliamentary seats for a simple majority (the dashed line).
+
+The graph on the right displays the total number of votes won in each contest, showing the different distributions of votes won by each coalition/party. Both BN and PAS won smaller numbers of votes in each seat they contested (medians ~ 18,000 and 12,000, respectively). In contrast, PH won many more votes in each (median ~ 25,000, with a heavy positive skew); its success can be seen in the 20-30 seats in which it won > 50,000 votes, more than any single seat won by BN or PAS (except for one).
+
+```{r results, echo=FALSE, message=FALSE, fig.align="center", fig.height=3}
+p1 <- parlimenResults %>%
+    filter(Coalition %in% c("BN", "Pakatan", "PAS")) %>%
+    filter(Year == 2018, Winner == 1) %>%
+    group_by(Coalition) %>%
+    count() %>%
+    ggplot(aes(x = Coalition, y = n, fill = Coalition)) +
+    geom_bar(stat = "identity", position = "dodge", width = .8) +
+    geom_hline(yintercept = 112, linetype = "dashed") +
+    scale_fill_manual(values = c("darkblue", "red2", "forestgreen")) +
+    theme_minimal() +
+    guides(fill = FALSE, color = FALSE) +
+    labs(title = "Total seats won", y = "Seats")
+
+p2 <- parlimenResults %>%
+    filter(Coalition %in% c("BN", "Pakatan", "PAS")) %>%
+    filter(Year == 2018) %>%
+    ggplot(aes(x = Coalition, y = Votes, color = Coalition)) +
+    geom_violin(draw_quantiles = c(0.5)) +
+    geom_jitter(alpha = .3, width = .2) +
+    scale_color_manual(values = c("darkblue", "red2", "forestgreen")) +
+    theme_minimal() +
+    guides(fill = FALSE, color = FALSE) +
+    labs(title = "Votes won per seat", y = "Votes")
+    
+plot_grid(p1, p2)
+```
+
+#### 2.2 Change from GE13
+
+The performance of the opposition coalitions requires some context. Back in 2008's [GE12](https://en.wikipedia.org/wiki/Malaysian_general_election,_2008), the opposition (then comprising slightly different political parties, and called *Pakatan Rakyat*) made historic gains, denying BN its customary 2/3^rds^ supermajority for the first time by winning 82 seats. The opposition further improved on their performance in 2013's [GE13](https://en.wikipedia.org/wiki/Malaysian_general_election,_2013), winning the popular vote, and 89 seats vs. BN's 122. 
+
+Their jump to 113 seats in GE14 was a hugely successful performance by PH. The following graph displays the change in support from GE13 to GE14 for BN and PH. All PAS seats are coded as gains because their seats in 2013 counted for Pakatan, which they [left in 2015](https://www.straitstimes.com/asia/se-asia/break-up-of-malaysias-opposition-bloc-pakatan-rakyat-what-happened-and-whats-next) (although a faction within PAS exited their party and remained with PH).
+
+```{r resultsChange, echo=FALSE, message=FALSE, fig.align="center", fig.height=3}
+parlimenResults %>%
+    filter(Coalition %in% c("BN", "Pakatan", "PAS", "WARISAN")) %>%
+    na.omit() %>%
+    ggplot(aes(x = ChangeMargin * 100, y = Coalition)) +
+    geom_jitter(height = .3, alpha = .5, aes(color = factor(ChangeWinner))) +
+    scale_color_manual(values = c("darkorange", "gray45", "deepskyblue2"), name = "Seat change", label = c("Loss", "No change", "Gain")) +
+    geom_vline(xintercept = 0, linetype = "dashed") +
+    theme_minimal() +
+    labs(x = "Change (%)", title = "Change in margins and seat winners", subtitle = "From GE13 to GE14", 
+         caption = "Note: In 2013, PAS was a part of Pakatan Rakyat")
+
+# parlimenResults %>%
+#     filter(Coalition %in% c("BN", "Pakatan", "PAS")) %>%
+#     na.omit() %>%
+#     ggplot(aes(x = ChangeMargin * 100, fill = as.factor(ChangeWinner))) +
+#     geom_histogram() +
+#     facet_grid(~ Coalition) +
+#     scale_fill_manual(values = c("red3", "grey", "green3"), name = "Seat change", label = c("Loss", "No change", "Gain")) +
+#     geom_vline(xintercept = 0, linetype = "dashed") +
+#     theme_minimal()
+```
+
+Some observations:
+
+* PAS "gained" 18 seats on its own, which is really a loss because it gained 21 seats as a part of Pakatan Rakyat in GE13. Of the seats it "gained", a huge chunk (13) were taken from PH. PAS undoubtedly influenced the outcome by causing three-cornered contests. Their influence was felt hardest by PH.
+* *PH improved their margins in 75% of their contested seats*, picking up an amazing 32 seats from BN. In the seats it declined in, it lost 14 that it had held, mainly to PAS as a result of it leaving the coalition.
+* *BN decreased their margins in 87% of their contested seats*. It gained one, but lost an astonishing 38 seats.
+
+### 3 Turnout
+
+#### 3.1 Turnout differences
+
+Malaysian elections typically have enviable turnout rates -- 83.3% in GE13 and 80.9% in GE14. Did turnout vary amongst different groups? Back in 2013, there was a slight relationship between turnout and race -- turnout was higher in constituencies with a higher percentage of ethnic-Malay voters (see the following graph on the left). This time around, turnout did not vary by race -- it was pretty stable (in the low 80's) regardless of the racial composition of each seat. In GE14, it appears different races turned out at similar rates.
+
+```{r turnoutSeats, echo=FALSE, message=FALSE, warning=FALSE, fig.align="center", fig.height=4}
+parlimenResults %>%
+    filter(Coalition %in% c("BN", "Pakatan", "PAS")) %>%
+    filter(Winner == 1) %>%
+    ggplot(aes(x = Malay * 100, y = Turnout * 100)) +
+    geom_point(alpha = .3) +
+    facet_grid(~ Year) +
+    stat_smooth(method = "lm", color = "black") +
+    # scale_color_manual(values = c("darkblue", "red2", "forestgreen"), name = "Won by") +
+    # guides(fill = FALSE, color = FALSE) +
+    theme_minimal() +
+    labs(title = "Turnout by racial composition", y = "Turnout (%)", x = "Malays in constituency (%)", caption = "Note: Omits East Malaysia\ndue to demographic differences")
+```
+
+Turnout was related to the size of constituencies (based on the number of registered voters), which has a relationship with how urbanized a constituency is. On average, larger constituencies contain more dense population centers, whih tend to be more urban. In both GE13 and GE14, larger constituencies had higher turnouts.
+
+```{r turnoutSeats2, echo=FALSE, message=FALSE, warning=FALSE, fig.align="center", fig.height=4}
+parlimenResults %>%
+    filter(Coalition %in% c("BN", "Pakatan", "PAS")) %>%
+    filter(Winner == 1) %>%
+    ggplot(aes(x = Registered, y = Turnout * 100)) +
+    geom_point(alpha = .3) +
+    facet_grid(~ Year) +
+    stat_smooth(method = "lm", color = "black", formula="y~log(x)") +
+    # scale_color_manual(values = c("darkblue", "red2", "forestgreen"), name = "Won by") +
+    # guides(fill = FALSE, color = FALSE) +
+    theme_minimal() +
+    labs(title = "Turnout by size of constituency", y = "Turnout (%)", x = "Registered voters")
+```
+
+#### 3.2 Turnout influences outcomes
+
+Generally, a higher turnout favors the opposition parties, and the same trend was evident in GE14. The following graph plots the share of votes received by each coalition/party by turnout (note: turnout is on the x-axis). As turnout increased, the vote-share won by BN decreased dramatically, and led to them losing more seats. On the other hand, PH won more votes and more seats as turnout increased. PAS' performance was less related to turnout.
+
+```{r turnout, echo=FALSE, message=FALSE, warning=FALSE, fig.align="center", fig.height=4}
+parlimenResults %>%
+    filter(Coalition %in% c("BN", "Pakatan", "PAS")) %>%
+    filter(Year == 2018) %>%
+    ggplot(aes(x = Turnout * 100, y = VoteShare * 100)) +
+    geom_point(aes(color = as.factor(Winner)), alpha = .5) +
+    facet_grid(~ Coalition) +
+    stat_smooth(method = "lm", color = "black") +
+    scale_color_manual(name = "Outcome", label = c("Lose", "Win"), values = c("darkorange", "deepskyblue2")) +
+    # guides(fill = FALSE, color = FALSE) +
+    theme_minimal() +
+    labs(title = "Vote share and outcome by turnout in GE14", y = "Vote share (%)", x = "Turnout (%)")
+```
+
+### 4 Gerrymandering
+
+The BN ex-government bulldozed through the Election Commission's proposed redelineation in March 2018, to the outrage of opposition lawmakers and civil society. Since [much was made](https://newnaratif.com/research/malaysias-election-rigged/) of how the redelineation would [disproportionately benefit BN](https://www.straitstimes.com/asia/se-asia/prepare-for-chaos-after-malaysias-new-redelineation-report-is-out-sin-chew-daily), a practice called [*gerrymandering*](https://en.wikipedia.org/wiki/Gerrymandering). It's worth noting that this is a common practice in most democracies.
+
+#### 4.1 Uneven playing ground
+
+The following graphs shows the sizes of the 50 largest and smallest constituencies. It's visually apparent that larger constituencies tend to be won by PH, while smaller constituencies tend to be won by BN. If campaigning is viewed as a problem of figuring out how to allocate limited resources (time, money, effort) to reach potential voters, PH seems to need more resources to run a successful campaign. On the flipside, this definitely added to their popular vote victory when campaigning was successful (see figure in section 2.1, showing that PH won many votes in most of their seats).
+
+Another way to think about it is to consider that the number of voters in the largest constituency is about 10 times greater than the number of voters in the smallest. The work put in to win one large seat could be equivalent to the work put in to win many small constituencies.
+
+```{r sizes, echo=FALSE, message=FALSE, fig.align="center", fig.height=4, fig.width=10}
+margins <- parlimenResults %>%
+    filter(Year == 2018, Winner == 1) %>%
+    filter(Coalition %in% c("BN", "Pakatan", "PAS")) %>%
+    arrange(-Total) %>%
+    mutate(Rank = row_number(),
+           Size = ifelse(Rank <= 50, "Largest 50",
+                         ifelse(Rank >= 219-50, "Smallest 50", NA)))
+margins$Parliament <- factor(margins$Parliament, levels = margins$Parliament)
+
+p1 <- margins %>%
+    filter(Size == "Largest 50") %>%
+    ggplot(aes(x = Parliament, y = Total, fill = Coalition)) +
+    geom_bar(stat = "identity") +
+    scale_fill_manual(values = c("darkblue", "red2", "forestgreen"), name = "Won by") +
+    scale_y_continuous(limits = c(0, 160000)) +
+    theme_minimal() +
+    labs(title = "Sizes and winners of 50 largest seats", y = "Total votes cast", x = "Seats") +
+    theme(axis.text.x  = element_text(angle=90, vjust=0.5, size=7))
+
+p2 <- margins %>%
+    filter(Size == "Smallest 50") %>%
+    ggplot(aes(x = Parliament, y = Total, fill = Coalition)) +
+    geom_bar(stat = "identity") +
+    scale_fill_manual(values = c("darkblue", "red2", "forestgreen")) +
+    scale_y_continuous(limits = c(0, 160000)) +
+    theme_minimal() +
+    labs(title = "Sizes and winners of 50 smallest seats", y = "Total votes cast", x = "Seats") +
+    theme(axis.text.x  = element_text(angle=90, vjust=0.5, size=7))
+
+legend <- get_legend(p1)
+plot_grid(p1 + theme(legend.position="none"), p2 + theme(legend.position="none"), legend, 
+          rel_widths = c(.45, .45, .1), nrow = 1)
+```
+
+The main goal of gerrymandering is to "pack" your opponents' supporters into only a few constituencies (so that many votes count for fewer seats) and to "crack" your own supporters into many constituencies (so fewer votes are needed to win a seat). The redelineation was "successful" for BN in this regard: BN wins its seats relying on way fewer voters on average (*M* = 18,788) than either PH (*M* = 39,004) or PAS (*M* = 34,055).
+
+The following graph displays the victory margins of seats won by each coalition/party by the number of registered voters in a constituency.
+
+```{r sizeByShare, echo=FALSE, message=FALSE, fig.align="center", fig.height=4}
+parlimenResults %>%
+    filter(Coalition %in% c("BN", "Pakatan", "PAS")) %>%
+    filter(Winner == 1) %>%
+    ggplot(aes(x = Registered, y = Margin * 100)) +
+    geom_point(aes(color = Coalition), alpha = .5) +
+    facet_wrap(~ Year) +
+    stat_smooth(method = "lm", aes(color = Coalition), formula="y~log(x)") +
+    scale_color_manual(values = c("darkblue", "red2", "forestgreen")) +
+    theme_minimal() +
+    labs(title = "Margin of victory by size of constituencies won", y = "Margin of victory (%)")
+```
+
+Some observations:
+
+* As the size of a constituency increases, BN's victory margins decrease, resulting in them winning fewer seats. This pattern (seen in the blue lines) is present in both GE13 and GE 14. 
+* In GE13, the size of a constituency was not related to the share of votes won by the opposition (the flat red line in the left figure). The redelineation in 2018 changed this: in GE14, PH's margin of victory increased with the size of the constituencies (red line in the right figure). 
+* This suggests the gerrymandering was "successful" for BN -- more opposition-leaning voters were "packed" into larger constituencies, whereas BN-leaning voters were "cracked" into smaller ones. PH was made to work harder and spread their resources more thinly to win each seat.
+
+#### 4.2 Wasted votes
+
+We can also quantify the extent of gerrymandering in a constituency by looking at the number of [*wasted votes*](https://en.wikipedia.org/wiki/Wasted_vote) for each party that do not directly contribute to the outcome of a race (all votes for the losers + all "extra" votes for the winner). The following graph displays the number of wasted votes each coalition had in each contest.
+
+```{r wastedVotes, echo=FALSE, message=FALSE, fig.align="center", fig.height=4}
+p1 <- parlimenResults %>%
+    filter(Coalition %in% c("BN", "Pakatan"), Year == 2013) %>%
+    ggplot(aes(x = Coalition, y = WastedVotes)) +
+    geom_jitter(aes(color = as.factor(Winner)), alpha = .5) +
+    scale_y_continuous(limits = c(0, 80000)) +
+    theme_minimal() +
+    scale_color_manual(name = "Outcome", label = c("Lose", "Win"), values = c("darkorange", "deepskyblue2")) +
+    labs(title = "2013", y = "Wasted votes")
+
+p2 <- parlimenResults %>%
+    filter(Coalition %in% c("BN", "Pakatan", "PAS"), Year == 2018) %>%
+    ggplot(aes(x = Coalition, y = WastedVotes)) +
+    geom_jitter(aes(color = as.factor(Winner)), alpha = .5) +
+    scale_y_continuous(limits = c(0, 80000)) +
+    theme_minimal() +
+    scale_color_manual(name = "Outcome", label = c("Lose", "Win"), values = c("darkorange", "deepskyblue2")) +
+    labs(title = "2018", y = "")
+
+legend <- get_legend(p1)
+p <- plot_grid(p1 + theme(legend.position="none"), p2 + theme(legend.position="none"), legend, 
+          rel_widths = c(.4, .5, .1), nrow = 1)
+
+title <- ggdraw() + draw_label("Wasted votes by coalition", size = 14, hjust = 1.12)
+plot_grid(title, p, ncol=1, rel_heights=c(0.1, 1)) # rel_heights values control title margins
+```
+
+Some observations:
+
+* The redelineation prior to GE14 appears to have marginally reduced the number of BN's wasted votes; the distribution is "squashed" lower. Conversely, it seems to have boosted the number of wasted votes for PH in a few seats (the outliers with > 40,000 wasted votes).
+* Focusing on the wasted votes in GE14 (right figure), seats that BN won have significantly fewer wasted votes compared to seats that PH won. Additionally, the seats BN won have, almost without exception, fewer wasted votes than seats they lost. In contrast, for PH, their wins are distributed pretty evenly (although on average, seats PH won have more wasted votes than seats they lost). 
+* All this suggests a systematic effort to carve out constituencies that favor BN by allowing them to win efficiently. Their loss in spite of this suggests their gerrymandering was insufficient to overcome the overall drop in support for them (see next section). For PH, the redelineation created more constituencies in which they would win by large majorities (wasting their votes), which is consistent with the analyses above.
+* PAS in GE14 had a wasted vote distribution similar to BN, which makes sense given the shared demographics and geography of their support bases.
+
+### 5 BN rejected by all races
+
+As a coda, I wanted to see if there were patterns in the shift in support from BN towards the opposition. Traditionally, BN has won thanks to its base of [ethnic Malay voters](https://www.reuters.com/article/us-malaysia-election-manifesto/malaysias-najib-targets-key-support-base-at-manifesto-launch-idUSKBN1HE0LJ), and its leaders have blamed other races (e.g., the ethnic Chinese) for [turning on them](https://www.ft.com/content/460f0c42-b711-11e2-841e-00144feabdc0). 
+
+The following graph refutes this; it displays the change in the margins for both BN and PH from GE13 to GE14 for constituencies with varying proportions of ethnic-Malay voters.
+
+```{r tsunami, echo=FALSE, message=FALSE, warning=FALSE, fig.align="center", fig.height=4}
+parlimenResults %>%
+    filter(Coalition %in% c("BN", "Pakatan")) %>%
+    filter(Year == 2018) %>%
+    ggplot(aes(x = Malay * 100, y = ChangeMargin * 100)) +
+    geom_point(aes(color = factor(ChangeWinner)), alpha = .5) +
+    facet_grid(~ Coalition) +
+    # stat_smooth(method = "lm", color = "black") +
+    geom_hline(yintercept = 0, linetype = "dashed") +
+    scale_color_manual(values = c("darkorange", "gray45", "deepskyblue2"), name = "Seat change", label = c("Loss", "No change", "Gain")) +
+    # guides(fill = FALSE, color = FALSE) +
+    theme_minimal() +
+    labs(title = "Change in margins and seat winners by racial composition", y = "Change in margin (%)", x = "Malays in constituency (%)")
+```
+
+While there is a decreasing trend in support for Pakatan in overwhelmingly Malay-majority constituencies (in which they lost the seats of their former partner PAS, see section 2.2), there is a nationwide shift of increased support for PH -- most of the constituencies (even those consisting of 90% Malay voters) show increased support for PH.
+
+In contrast, almost all constituencies, regardless of the proportion of ethnic-Malay voters, decreased their support for BN. The erosion of BN's support across the nation, including from Malay-majority constituencies, caused their historic loss.
+
+### 6 Conclusion
+
+Few people (including me) expected this outcome. There is uncertainty inherent in making predictions and forecasts from data (though some will of course [be more accurate than others](https://www.malaysiakini.com/news/423535)). However, data helps us explain and understand what happened after the fact. I'm excited to read the analyses in the coming days conducted by others on this historic Malaysian election.
+
+I'm hoping this will be a step towards getting Malaysians to be more data-driven and statistically-literate. Malaysia needs its own version of [FiveThirtyEight](http://www.fivethirtyeight.com/). *DuaRatusDuaDua* anyone?
